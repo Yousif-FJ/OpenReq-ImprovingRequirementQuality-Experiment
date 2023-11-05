@@ -1,4 +1,5 @@
-﻿1.1,"Ability for the user to send, receive, and delete e-mail and attachments. "
+﻿id, text
+1.1,"Ability for the user to send, receive, and delete e-mail and attachments. "
 1.2,Ability for the user to reply to e-mail and attachments. 
 1.3,Ability for the user to forward e-mail and attachments. 
 1.4,Ability for the user to print e-mail messages. 
