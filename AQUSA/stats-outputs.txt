@@ -1,0 +1,292 @@
+EMAIL DATASET:
+Total count: 77
+Counter({'well_formed.no_means': 77, 'well_formed.no_role': 77, 'unique.identical': 76, 'minimal.brackets': 18, 'minimal.punctuation': 7})
+
+USER STORIES DATASET: (https://data.mendeley.com/datasets/7zbk8zsd8y/1)
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g25-duraspace.txt
+Outputfile file: output/g25-duraspace-result
+Output format: txt
+Total count:  126
+Counter({'atomic.conjunctions': 30, 'minimal.brackets': 9, 'uniform.uniform': 3})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g18-neurohub.txt
+Outputfile file: output/g18-neurohub-result
+Output format: txt
+Total count:  69
+Counter({'atomic.conjunctions': 17, 'uniform.uniform': 4, 'minimal.brackets': 2})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g26-racdam.txt
+Outputfile file: output/g26-racdam-result
+Output format: txt
+Total count:  54
+Counter({'minimal.indicator_repetition': 11, 'atomic.conjunctions': 6, 'uniform.uniform': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g28-zooniverse.txt
+Outputfile file: output/g28-zooniverse-result
+Output format: txt
+Traceback (most recent call last):
+  File "/Users/phuong/Documents/TAU/Requirements Engineering/Group Work/aqusa-core-master/aqusacore.py", line 115, in <module>
+    main(sys.argv[1:])
+  File "/Users/phuong/Documents/TAU/Requirements Engineering/Group Work/aqusa-core-master/aqusacore.py", line 50, in main
+    raw = f.readlines()
+  File "/Users/phuong/anaconda3/envs/aqusa/lib/python3.9/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xad in position 2310: invalid start byte
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g23-archivesspace.txt
+Outputfile file: output/g23-archivesspace-result
+Output format: txt
+
+Total count:  60
+Counter({'atomic.conjunctions': 8, 'uniform.uniform': 6, 'well_formed.no_means': 3, 'well_formed.no_role': 1, 'minimal.indicator_repetition': 1, 'unique.identical': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g03-loudoun.txt
+Outputfile file: output/g03-loudoun-result
+Output format: txt
+Total count:  27
+Counter({'atomic.conjunctions': 4, 'minimal.punctuation': 1, 'minimal.brackets': 1, 'unique.identical': 1, 'well_formed.no_means': 1, 'uniform.uniform': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g12-camperplus.txt
+Outputfile file: output/g12-camperplus-result
+Output format: txt
+Total count:  36
+Counter({'atomic.conjunctions': 5, 'uniform.uniform': 4, 'minimal.indicator_repetition': 1, 'well_formed.no_means': 1, 'unique.identical': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g17-cask.txt
+Outputfile file: output/g17-cask-result
+Output format: txt
+Total count:  48
+Counter({'atomic.conjunctions': 15, 'minimal.indicator_repetition': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g10-scrumalliance.txt
+Outputfile file: output/g10-scrumalliance-result
+Output format: txt
+Total count:  78
+Counter({'atomic.conjunctions': 17, 'minimal.indicator_repetition': 6, 'minimal.punctuation': 3})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g08-frictionless.txt
+Outputfile file: output/g08-frictionless-result
+Output format: txt
+Total count:  126
+Counter({'uniform.uniform': 28, 'well_formed.no_means': 6, 'atomic.conjunctions': 4, 'minimal.indicator_repetition': 2, 'unique.identical': 2})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g02-federalspending.txt
+Outputfile file: output/g02-federalspending-result
+Output format: txt
+Total count:  129
+Counter({'uniform.uniform': 28, 'atomic.conjunctions': 8, 'unique.identical': 3, 'well_formed.no_means': 3, 'minimal.punctuation': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g21-badcamp.txt
+Outputfile file: output/g21-badcamp-result
+Output format: txt
+Total count:  54
+Counter({'atomic.conjunctions': 8, 'minimal.indicator_repetition': 8, 'minimal.punctuation': 2})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g19-alfred.txt
+Outputfile file: output/g19-alfred-result
+Output format: txt
+Total count:  66
+Counter({'atomic.conjunctions': 16, 'uniform.uniform': 2, 'well_formed.no_means': 1, 'minimal.indicator_repetition': 1, 'minimal.punctuation': 1, 'unique.identical': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g13-planningpoker.txt
+Outputfile file: output/g13-planningpoker-result
+Output format: txt
+Traceback (most recent call last):
+  File "/Users/phuong/Documents/TAU/Requirements Engineering/Group Work/aqusa-core-master/aqusacore.py", line 115, in <module>
+    main(sys.argv[1:])
+  File "/Users/phuong/Documents/TAU/Requirements Engineering/Group Work/aqusa-core-master/aqusacore.py", line 50, in main
+    raw = f.readlines()
+  File "/Users/phuong/anaconda3/envs/aqusa/lib/python3.9/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 2233: invalid start byte
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g24-unibath.txt
+Outputfile file: output/g24-unibath-result
+Output format: txt
+Traceback (most recent call last):
+  File "/Users/phuong/Documents/TAU/Requirements Engineering/Group Work/aqusa-core-master/aqusacore.py", line 115, in <module>
+    main(sys.argv[1:])
+  File "/Users/phuong/Documents/TAU/Requirements Engineering/Group Work/aqusa-core-master/aqusacore.py", line 50, in main
+    raw = f.readlines()
+  File "/Users/phuong/anaconda3/envs/aqusa/lib/python3.9/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x93 in position 2880: invalid start byte
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g22-rdadmp.txt
+Outputfile file: output/g22-rdadmp-result
+Output format: txt
+Total count:  51
+Counter({'atomic.conjunctions': 9, 'unique.identical': 3, 'minimal.indicator_repetition': 2, 'uniform.uniform': 2, 'well_formed.no_means': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g05-openspending.txt
+Outputfile file: output/g05-openspending-result
+Output format: txt
+Total count:  33
+Counter({'minimal.indicator_repetition': 5, 'uniform.uniform': 5, 'atomic.conjunctions': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g11-nsf.txt
+Outputfile file: output/g11-nsf-result
+Output format: txt
+Total count:  33
+Counter({'atomic.conjunctions': 9, 'minimal.indicator_repetition': 2})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g14-datahub.txt
+Outputfile file: output/g14-datahub-result
+Output format: txt
+Total count:  111
+Counter({'minimal.indicator_repetition': 29, 'atomic.conjunctions': 7, 'unique.identical': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g16-mis.txt
+Outputfile file: output/g16-mis-result
+Output format: txt
+Total count:  87
+Counter({'atomic.conjunctions': 22, 'well_formed.no_means': 2, 'well_formed.no_role': 2, 'uniform.uniform': 2, 'unique.identical': 1})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g27-culrepo.txt
+Outputfile file: output/g27-culrepo-result
+Output format: txt
+Total count:  294
+Counter({'atomic.conjunctions': 70, 'minimal.brackets': 10, 'minimal.punctuation': 6, 'minimal.indicator_repetition': 6, 'unique.identical': 3, 'uniform.uniform': 3})
+
+======================================================
+                     AQUSA-Core
+    Requirements Engineering Lab, Utrecht University
+           Fabiano Dalpiaz, Garm Lucassen
+======================================================
+
+Input file: input/user-stories/g04-recycling.txt
+Outputfile file: output/g04-recycling-result
+Output format: txt
+Total count:  36
+Counter({'atomic.conjunctions': 9, 'minimal.indicator_repetition': 2, 'uniform.uniform': 1})
+
+SUMMARY
+Total count:  1518
+Counter({'atomic.conjunctions': 265, 'uniform.uniform': 90, 'minimal.indicator_repetition': 77, 'minimal.brackets': 22, 'well_formed.no_means': 18, 'unique.identical': 17, 'minimal.punctuation': 14, 'well_formed.no_role': 3})
+Skipped:  ['g28-zooniverse.txt', 'g13-planningpoker.txt', 'g24-unibath.txt']

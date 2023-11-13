@@ -1,0 +1,51 @@
+Story #7: "As a PI, I want to plan what kind of data I want to record/store, so that I can ensure it will possible to store it."
+   Defect type: minimal.indicator_repetition
+   Message: As a PI, [* I want to *] plan what kind of data [* I want to *] record/store, so that I can ensure it will possible to store it.
+Story #9: "As a data manager, I want to have the description of collected data sets that are used or updated throughout the project lifecycle, so that I can ensure the descriptions are current and add detail as the study proceeds."
+   Defect type: atomic.conjunctions
+   Message: As a data manager, I want to have the description of collected data sets that are used [* or *] updated throughout the project lifecycle, so that I can ensure the descriptions are current [* and *] add detail as the study proceeds.
+Story #18: "As a data manager, I want to know which kind of data types will be produced or collected, so that I can determine what basic support services and functionalities are required."
+   Defect type: atomic.conjunctions
+   Message: As a data manager, I want to know which kind of data types will be produced [* or *] collected, so that I can determine what basic support services [* and *] functionalities are required.
+Story #19: "As an IT staff member, I want to know which kind of data types will be produced or collected, so that I can determine what basic support services and functionalities are required."
+   Defect type: atomic.conjunctions
+   Message: As an IT staff member, I want to know which kind of data types will be produced [* or *] collected, so that I can determine what basic support services [* and *] functionalities are required.
+Story #22: "As a data manager, I want to know what the content of the data is, so that I can check whether the necessary expertise for maintaining intellectual reusability is available."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #26: "As a stakeholder, I want to know when the data management plan was created or updated, so that I know how up-to-date the plan is or whether it needs to be updated."
+   Defect type: atomic.conjunctions
+   Message: As a stakeholder, I want to know when the data management plan was created [* or *] updated, so that I know how up-to-date the plan is or whether it needs to be updated.
+Story #33: "As a manager, I want to know about all resources and services used for the data, so that I can estimate the true cost of the project."
+   Defect type: atomic.conjunctions
+   Message: As a manager, I want to know about all resources [* and *] services used for the data, so that I can estimate the true cost of the project.
+Story #43: "As a repository manager, I need details on the type of data, so that I can check if the archiving can be arranged."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #50: "As a PI, I want to plan what kind of data I want to store, so that I can ensure it will be possible to store it."
+   Defect type: minimal.indicator_repetition
+   Message: As a PI, [* I want to *] plan what kind of data [* I want to *] store, so that I can ensure it will be possible to store it.
+Story #58: "As a data manager, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available."
+   Defect type: atomic.conjunctions
+   Message: As a data manager, I want to know which kind of data types will be produced [* or *] collected, so that I can ensure that the necessary technical resources [* and *] technical know-how is available.
+Story #58: "As a data manager, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #59: "As an IT staff member, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available."
+   Defect type: atomic.conjunctions
+   Message: As an IT staff member, I want to know which kind of data types will be produced [* or *] collected, so that I can ensure that the necessary technical resources [* and *] technical know-how is available.
+Story #59: "As an IT staff member, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #63: "As an IT staff member, I want to know with which software or technology the data is produced or used, so that I can determine what kind of technical services and functionalities are required."
+   Defect type: atomic.conjunctions
+   Message: As an IT staff member, I want to know with which software [* or *] technology the data is produced or used, so that I can determine what kind of technical services [* and *] functionalities are required.
+Story #67: "As a data manager, I want to know with which software or technology the data is produced or used, so that I know what technology or background information might be necessary to (re-)use the data."
+   Defect type: atomic.conjunctions
+   Message: As a data manager, I want to know with which software [* or *] technology the data is produced or used, so that I know what technology or background information might be necessary to (re-)use the data.
+Story #25: "As a researcher, I want the DMP to prepopulate information that I have already entered in other institutional systems, so that I do not have to re-enter information ensuring the DMP contains accurate and standardized information."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #43: "As a repository manager, I need details on the type of data, so that I can check if the archiving can be arranged."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that

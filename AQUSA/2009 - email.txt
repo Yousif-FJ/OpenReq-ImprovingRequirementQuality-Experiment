@@ -1,0 +1,77 @@
+﻿Ability for the user to send, receive, and delete e-mail and attachments. 
+Ability for the user to reply to e-mail and attachments. 
+Ability for the user to forward e-mail and attachments. 
+Ability for the user to print e-mail messages. 
+Ability for the user to customize e-mail messages with word processor like features for formatting of e-mail content. 
+Ability for the user to establish rules (auto reply, out of office reply, temporary transfer to another party, move files to inbox folders). 
+Ability for the user to spell check. 
+Ability for the user to organize content into personal folders or similar storage mechanism to aid with e-mail retrieval. 
+Ability for the agency admin to migrate existing public folders into the statewide e-mail system. 
+Ability for the agency admin to create and manage public folders or similar storage mechanism to aid with the collection, organization, and sharing of information with other people in their individual agency or organization. 
+Ability for the user to create contact lists, including those imported from other sources. 
+Ability for the user to export contact lists. 
+Ability for the user to share contact lists / address book. 
+Ability for the agency admin to create and share distribution lists (including the ability to create query based distribution lists from LDAP-like directory services). 
+Ability for the user to create calendars and customize calendar views. 
+Ability for the user to schedule resources such as conference rooms, teleconference rooms, etc. 
+Ability for the user to create reminders and tasks. 
+Ability for the agency admin to accommodate programmer testing of e-mail functionality embedded in software applications. 
+Ability for the user to share inbox, calendar, and files with users, given permission.  
+Ability for the user to delegate their permissions to another user. 
+Ability for the user to embed links to files and websites in e-mails. 
+Ability for the agency admin to provision e-mail accounts for their individual agency or organization (including the ability to integrate e-mail account provisioning with LDAP-like directory services). 
+Ability for the user to search for e-mails based on age, size, sender, recipient, subject, key word, attachment content. 
+Ability for the agency admin to auto-enforce standard conventions for creating accounts and distribution lists. 
+Ability for the data center admin to control message size limits for e-mail (inbound and outbound). 
+Ability for the agency admin to create generic email accounts/addresses to be accessed by multiple users. 
+Ability for the user to customize their view in the client application (such as adding fields, arranging fields, and ordering emails by fields). 
+Ability for the user to archive at the desktop. 
+Ability for the agency admin to provide a server based archiving solution. 
+Ability for the agency admin to archive at various regularly defined intervals. 
+Ability for the agency admin to search archive and forward, print and restore in bulk items from archive. 
+Ability for the agency admin to filter archive by sender, recipient, date, subject, content, attachments, keyword, etc. 
+Ability for the agency admin to provide long term retention separate from active e-mail system. 
+Ability for the agency admin to provide individual users the ability to search their portion of the archive repository. 
+Ability for the agency admin to meet Federal regulations for retention (i.e. Sarbanes Oxley, Gramm-Leach-Bliley Act (GLB), HIPAA, etc.) 
+Ability for the agency admin to satisfy legal requests for e-mail discovery and provide printed or digital results. 
+Ability for the agency admin to capture all sent and received emails into the organization. 
+Ability for the agency admin to select the e-mail retention period for a specific e-mail (e.g. 1 year, 3 year, or 5 year). 
+Ability for the agency admin to search the e-mail "header" including Date: From, Subject, To, and CC. 
+Ability for the agency admin to search the "body" of the e-mail including the header and all text contained within the e-mail itself. 
+Ability for the agency admin to perform a "full text" search including the header, body and any attachments to the e-mail. 
+Ability for the agency admin to support litigation requests by production of responsive e-mail in to a specified location, for read and redaction purposes. 
+Ability for the agency admin to move older data to tiered storage (lower cost storage) while maintaining accessibility. 
+Ability for the agency admin to import data from other sources such as PST, NSF files into archiving solution. 
+Ability for the agency admin to put discovery search results on legal hold to suspend deletion. 
+Ability for the user (Legal, OIG, etc.) to review and mark discovery search results. 
+Ability for the agency admin to search using Boolean fields. 
+Ability for the agency admin to archive based on policy (i.e. e-mail address, OU, group, organization, etc.) 
+Ability for the user to delete, or flag for deletion by system administrators, e-mails that have met their retention, in accordance with s.119.021(2)(c) which requires agencies to “systematically dispose of records no longer needed.” (Note: Deletion means complete removal/elimination of all copies of an email from all portions of the system)”  
+Ability for the user to flag individual e-mails to not be archived.  
+Ability for the data center admin to recover at the file level. 
+Ability for the data center admin to recover all messages. 
+Ability for the data center admin to recover a specific e-mail message. 
+Ability for the data center admin to recover by mailbox. 
+Ability for the data center admin to recover by time. 
+Ability for the data center admin to maintain backup and restore event logs. 
+Ability for the data center admin to restore previous backup without service interruption. 
+Ability for the data center admin to provide pre-emptive e-mail virus protection (scanning prior to delivery at the mail server). 
+Ability for the data center admin to provide pre-emptive e-mail content filtering. 
+Ability for the data center admin to whitelist/blacklist senders by domain or IP address. 
+Ability for the data center admin to block or allow e-mail based on multiple message attributes. 
+Ability for the data center admin to integrate message hygiene (antispam/antivirus) with LDAP. 
+Ability for the data center admin to provide message hygiene (antispam/antivirus) statistical reports. 
+Ability for the user to encrypt outbound e-mail. 
+Ability for the user to establish TLS encryption with other businesses or customers. 
+Ability for the data center admin to protect the reputation of outbound mail gateways. 
+Ability for the data center admin to protect internal e-mail customer identity. 
+Ability for the user to access e-mail by secure web or client. (Calendar, Address book, Ability to send and receive). 
+Ability for the user to access e-mail with Blackberry services using BlackBerry device. 
+Ability for the user to access e-mail with non-Blackberry mobile data devices (iPhones, Treos, Pres. Etc.). 
+Ability for the agency admin to support other mobile device protocols (ActiveSync). 
+Ability for the agency admin to Create, Update and Delete Blackberry accounts. 
+Ability for the user to access mailbox and components via a web browser over a secure (encrypted) connection. 
+Ability for the user to send/receive e-mails within workflow applications. 
+Ability for the user to provide resource reservations integrated into e-mail. 
+Ability for the user to access an SMTP bridgehead for agency applications. 
+Ability for the user to integrate agency applications into the e-mail and mobile messaging environments. 

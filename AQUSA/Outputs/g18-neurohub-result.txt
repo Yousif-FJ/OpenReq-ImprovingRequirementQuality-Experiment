@@ -1,0 +1,69 @@
+Story #6: "As a user, I want to navigate forwards and backwards between log books and log book pages without having to use my browser's back button."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to navigate forwards [* and *] backwards between log books and log book pages without having to use my browser's back button.
+Story #9: "As a researcher, I want to create a log book page for an experiment and attach a file to this page."
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to create a log book page for an experiment [* and *] attach a file to this page.
+Story #10: "As a researcher, I want to create a log book page for an experiment and attach a directory that contains multiple files."
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to create a log book page for an experiment [* and *] attach a directory that contains multiple files.
+Story #19: "As a release engineer, I want to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system, execute tests and report back results, without requiring any manual input/interaction."
+   Defect type: atomic.conjunctions
+   Message: As a release engineer, I want to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system, execute tests [* and *] report back results, without requiring any manual input [*/*] interaction.
+Story #34: "As a user, I want to enter metadata / describe an experiment protocol before a file is even created."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to enter metadata  [*/*]  describe an experiment protocol before a file is even created.
+Story #41: "As a user, I want to modify or branch an experimental protocol, whilst retaining the original."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to modify [* or *] branch an experimental protocol, whilst retaining the original.
+Story #45: "As a user, I want to manage the references / papers I have investigated."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to manage the references  [*/*]  papers I have investigated.
+Story #58: "As a user, I want to view and update an inventory of of the equipment and consumables that are present in the centre."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to view [* and *] update an inventory of of the equipment and consumables that are present in the centre.
+Story #68: "As a user, I want to have the ability to move multiple files around and rearrange them using the Neurohub file browser while processing data."
+   Defect type: atomic.conjunctions
+   Message: As a user, I want to have the ability to move multiple files around [* and *] rearrange them using the Neurohub file browser while processing data.
+Story #69: "As a researcher, I want to point my Mendeley client at a group-wide shared repository of research papers and get notifications via Mendeley when new content is added."
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to point my Mendeley client at a group-wide shared repository of research papers [* and *] get notifications via Mendeley when new content is added.
+Story #70: "As a researcher, I want to have electronic support for keeping track of which data sets were used/output/modified as part of a particular experiment."
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to have electronic support for keeping track of which data sets were used [*/*] output/modified as part of a particular experiment.
+Story #76: "As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage."
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to collect data as a library of data, which can then be used by one [* or *] multiple experiments that are defined at a later stage.
+Story #77: "As a researcher, I want to indicate within my electronic log book which experimental data is good/bad, hide the bad data, but still keep it in the system just in case it is useful in the future."
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to indicate within my electronic log book which experimental data is good [*/*] bad, hide the bad data, but still keep it in the system just in case it is useful in the future.
+Story #78: "As a researcher, I want to have the system to provide standard metadata, that all researchers in the centre (and beyond) can use, so that we can better understand each others' data."
+   Defect type: minimal.brackets
+   Message: As a researcher, I want to have the system to provide standard metadata, that all researchers in the centre  [*(and beyond)*]  can use, so that we can better understand each others' data.
+Story #80: "As a researcher, I want to have the ability to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood."
+   Defect type: minimal.brackets
+   Message: As a researcher, I want to have the ability to attach standard meta data for behavioural observations  [*(and video)*] , so that my data can later be searched for and understood.
+Story #84: "As a researcher,  I want to have the ability to attach detailed meta data to the data and entries that I create."
+   Defect type: atomic.conjunctions
+   Message: As a researcher,  I want to have the ability to attach detailed meta data to the data [* and *] entries that I create.
+Story #90: "As a user,  I want to have the ability to keep my data private on the system, and only share data that I deem should be shared."
+   Defect type: atomic.conjunctions
+   Message: As a user,  I want to have the ability to keep my data private on the system, [* and *] only share data that I deem should be shared.
+Story #97: "As a researcher,  I want to have the ability to locate and access data that colleagues want to share."
+   Defect type: atomic.conjunctions
+   Message: As a researcher,  I want to have the ability to locate [* and *] access data that colleagues want to share.
+Story #102: "As a researcher, I want to have the details of the workflow plan as well as the execution history and results recorded in Neurohub while executing a workflow"
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to have the details of the workflow plan as well as the execution history [* and *] results recorded in Neurohub while executing a workflow
+Story #8: "As a systems administrator, I want  to install Neurohub dependencies into an Ubuntu 10.04 LTS machine using the normal Ubuntu package management tools."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #39: "As a lab administrator, I want a way of managing worm strain stocks that is integrated with Wormbase."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #60: "As a supervisor, I want to create feedback forms within Neurohub, that my students can fill in and submit, in order to provide me with feedback about the course that they attended."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #71: "As a user, I want a mechanism for electronically sharing papers and notes with other researchers, so that we can collaborate effectively."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that

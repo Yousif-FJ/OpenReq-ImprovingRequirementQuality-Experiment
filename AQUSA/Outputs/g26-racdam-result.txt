@@ -1,0 +1,54 @@
+Story #1: "As an archivist, I want to apply a license or rights statement, so that I know what I can do with a file."
+   Defect type: minimal.indicator_repetition
+   Message: As an archivist, [* I want to *] apply a license or rights statement, so that I know what [* I can *] do with a file.
+Story #20: "As an assistant archivist, I want to upload and tag staff generated working papers, so that staff and researchers are able to easily access them."
+   Defect type: atomic.conjunctions
+   Message: As an assistant archivist, I want to upload [* and *] tag staff generated working papers, so that staff and researchers are able to easily access them.
+Story #21: "As an archivist, I want to distinguish between digital objects digitized to preservation standards and those created for access purposes only, so that I know whether I should apply preservation actions."
+   Defect type: atomic.conjunctions
+   Message: As an archivist, I want to distinguish between digital objects digitized to preservation standards [* and *] those created for access purposes only, so that I know whether I should apply preservation actions.
+Story #29: "As an archivist, I want to apply automatic contrast and level operations to a scanned file, so that I can eliminate unnecessary work."
+   Defect type: atomic.conjunctions
+   Message: As an archivist, I want to apply automatic contrast [* and *] level operations to a scanned file, so that I can eliminate unnecessary work.
+Story #31: "As a donor representative, I want to supply incremental accruals to new and existing collections, so that material can be transferred on an ongoing basis."
+   Defect type: atomic.conjunctions
+   Message: As a donor representative, I want to supply incremental accruals to new [* and *] existing collections, so that material can be transferred on an ongoing basis.
+Story #34: "As a researcher, I want to generate structured citation data, so that so I can cite a file in a publication."
+   Defect type: minimal.indicator_repetition
+   Message: As a researcher, I want to generate structured citation data, [* so that *] [* so *] I can cite a file in a publication.
+Story #35: "As a researcher, I want to share a link to a file on social media, so that so I can show other people an interesting thing I found."
+   Defect type: minimal.indicator_repetition
+   Message: As a researcher, I want to share a link to a file on social media, [* so that *] [* so *] I can show other people an interesting thing I found.
+Story #36: "As a researcher, I want to understand the copyright status of the image, so that I know if I can use it."
+   Defect type: minimal.indicator_repetition
+   Message: As a researcher, [* I want to *] understand the copyright status of the image, so that I know if [* I can *] use it.
+Story #41: "As a researcher, I want to locate photographs and documents that I can share on social media."
+   Defect type: minimal.indicator_repetition
+   Message: As a researcher, [* I want to *] locate photographs and documents that [* I can *] share on social media.
+Story #44: "As a researcher, I want to receive a notification if something I request in the reading room or for duplication is already digitized, so that I don't have to put in that request."
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to receive a notification if something I request in the reading room [* or *] for duplication is already digitized, so that I don't have to put in that request.
+Story #55: "As a donor representative, I want to look at images that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reports etc."
+   Defect type: minimal.indicator_repetition
+   Message: As a donor representative, [* I want to *] look at images that have been scanned from my collection, so that so that [* I can *] use them in my institutions exhibits, reports etc.
+Story #55: "As a donor representative, I want to look at images that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reports etc."
+   Defect type: minimal.indicator_repetition
+   Message: As a donor representative, I want to look at images that have been scanned from my collection, [* so that *] [* so *] that I can use them in my institutions exhibits, reports etc.
+Story #58: "As a researcher, I want to see common material across collections, so that so I can prepare a comprehensive analysis."
+   Defect type: minimal.indicator_repetition
+   Message: As a researcher, I want to see common material across collections, [* so that *] [* so *] I can prepare a comprehensive analysis.
+Story #72: "As a researcher, I want to access digitized archival materials without mediation, so that I can decide what, I want to look at."
+   Defect type: minimal.indicator_repetition
+   Message: As a researcher, [* I want to *] access digitized archival materials without mediation, so that I can decide what, [* I want to *] look at.
+Story #73: "As an archivist, I want to distinguish between images scanned in color or black and white, so that I know whether or not these images meet publication requirements."
+   Defect type: atomic.conjunctions
+   Message: As an archivist, I want to distinguish between images scanned in color [* or *] black [* and *] white, so that I know whether or not these images meet publication requirements.
+Story #79: "As a researcher, I want to view thumbnails of photos, so that I can make a selection of which one I want to license."
+   Defect type: minimal.indicator_repetition
+   Message: As a researcher, [* I want to *] view thumbnails of photos, so that I can make a selection of which one [* I want to *] license.
+Story #93: "As an archivist, I want to search images by uploading an image, so that so I can find images when i don't have any metadata."
+   Defect type: minimal.indicator_repetition
+   Message: As an archivist, I want to search images by uploading an image, [* so that *] [* so *] I can find images when i don't have any metadata.
+Story #37: "As a researcher I want clear citation information on each document, so that I can cite accurately in a publication."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As an, I want to, So that

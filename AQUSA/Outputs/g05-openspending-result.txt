@@ -1,0 +1,33 @@
+Story #17: "As a Data Publishing User, I want to be able to import data in Excel, So that I do not have to convert data formats in order to use the data packager."
+   Defect type: minimal.indicator_repetition
+   Message: As a Data Publishing User, I want to be able to import data in Excel, [* So that *] I do not have to convert data formats [* in order to *] use the data packager.
+Story #21: "As a Data Publishing User, I want to be able to import data in JSON, So that I do not have to convert data formats in order to use the data packager."
+   Defect type: minimal.indicator_repetition
+   Message: As a Data Publishing User, I want to be able to import data in JSON, [* So that *] I do not have to convert data formats [* in order to *] use the data packager.
+Story #23: "As a Data Publishing User, I want to be able to import data from a Google Spreadsheet, So that I do not have to convert data formats in order to use the data packager."
+   Defect type: minimal.indicator_repetition
+   Message: As a Data Publishing User, I want to be able to import data from a Google Spreadsheet, [* So that *] I do not have to convert data formats [* in order to *] use the data packager.
+Story #25: "As a Data Publishing User, I want to be able to import data from Fiscal Data Package descriptor file, So that I do not have to convert data formats in order to use the data packager."
+   Defect type: minimal.indicator_repetition
+   Message: As a Data Publishing User, I want to be able to import data from Fiscal Data Package descriptor file, [* So that *] I do not have to convert data formats [* in order to *] use the data packager.
+Story #47: "As a Developer, I want to be able to customise the Brand Name and Icon, and Primary Color of all frontend Javascript apps, So that I can customise the branding for my own needs."
+   Defect type: atomic.conjunctions
+   Message: As a Developer, I want to be able to customise the Brand Name [* and *] Icon, and Primary Color of all frontend Javascript apps, So that I can customise the branding for my own needs.
+Story #93: "As an OpenSpending Community Member, I want to have an app where I can find examples of use of fiscal data visualisations, So that I can find guidance in creating my own with Open Spending."
+   Defect type: minimal.indicator_repetition
+   Message: As an OpenSpending Community Member, [* I want to *] have an app where [* I can *] find examples of use of fiscal data visualisations, So that I can find guidance in creating my own with Open Spending.
+Story #17: "As a Data Publishing User, I want to be able to import data in Excel, So that I do not have to convert data formats in order to use the data packager."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #21: "As a Data Publishing User, I want to be able to import data in JSON, So that I do not have to convert data formats in order to use the data packager."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #23: "As a Data Publishing User, I want to be able to import data from a Google Spreadsheet, So that I do not have to convert data formats in order to use the data packager."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #25: "As a Data Publishing User, I want to be able to import data from Fiscal Data Package descriptor file, So that I do not have to convert data formats in order to use the data packager."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #71: "As an API User, I want to be able to normalise measures by GDP, so I work with datasets in reference to their contextual constraints."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that

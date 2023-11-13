@@ -1,0 +1,66 @@
+Story #8: "As an OlderPerson, I want to have a small ALFRED device that is wearable and easy to carry with me."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to have a small ALFRED device that is wearable [* and *] easy to carry with me.
+Story #11: "As an OlderPerson, I want to have clear instructions and service after sales that guide me if I have trouble in using ALFRED."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to have clear instructions [* and *] service after sales that guide me if I have trouble in using ALFRED.
+Story #20: "As an OlderPerson, I want to have a very good battery for ALFRED so I can keep him on the whole day."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #37: "As an OlderPerson, I want to receive day and night rythm support with agenda reminders."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to receive day [* and *] night rythm support with agenda reminders.
+Story #42: "As an OlderPerson, I want to use ALFRED to see who is standing at my door and open the door."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to use ALFRED to see who is standing at my door [* and *] open the door.
+Story #58: "As an OlderPerson, I want to have ALFRED to detect falls and send an emergency to a specific contact."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to have ALFRED to detect falls [* and *] send an emergency to a specific contact.
+Story #75: "As an OlderPerson, I want to use ALFRED to navigate to an event or concert and help me when I am lost."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to use ALFRED to navigate to an event [* or *] concert [* and *] help me when I am lost.
+Story #86: "As an OlderPerson, I want to have the wearables with integrated sensors to look good and not to be stigmatizing."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to have the wearables with integrated sensors to look good [* and *] not to be stigmatizing.
+Story #96: "As a SocialCaregiver, I want to have ALFRED to be able to recognize pain and or stress by using skin conduction sensors."
+   Defect type: atomic.conjunctions
+   Message: As a SocialCaregiver, I want to have ALFRED to be able to recognize pain [* and *] [* or *] stress by using skin conduction sensors.
+Story #98: "As an OlderPerson, I want to have ALFRED to give me goals and missions that encourage me to do new activities and exercises and to go out."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to have ALFRED to give me goals [* and *] missions that encourage me to do new activities and exercises and to go out.
+Story #100: "As an OlderPerson, I want to play games where I can use my Imagination."
+   Defect type: minimal.indicator_repetition
+   Message: As an OlderPerson, [* I want to *] play games where [* I can *] use my Imagination.
+Story #101: "As an OlderPerson, I want to do guided exercises with ALFRED and ALFRED should also use sensors to capture health data while I am doing exercises."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to do guided exercises with ALFRED [* and *] ALFRED should also use sensors to capture health data while I am doing exercises.
+Story #107: "As an OlderPerson, I want to have some games that show me how good my memory and physical health is."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to have some games that show me how good my memory [* and *] physical health is.
+Story #112: "As a MedicalCaregiver, I want to have ALFRED to propose me games that require the combination of mental and physical exercise, such as opposing motion exercises of the arms and legs."
+   Defect type: atomic.conjunctions
+   Message: As a MedicalCaregiver, I want to have ALFRED to propose me games that require the combination of mental [* and *] physical exercise, such as opposing motion exercises of the arms and legs.
+Story #113: "As an OlderPerson, I want to games that require the combination of mental and physical exercise, such as opposing motion exercises of the arms and legs."
+   Defect type: atomic.conjunctions
+   Message: As an OlderPerson, I want to games that require the combination of mental [* and *] physical exercise, such as opposing motion exercises of the arms and legs.
+Story #121: "As a developer, I want to easily create and to maintain my apps within the market place."
+   Defect type: atomic.conjunctions
+   Message: As a developer, I want to easily create [* and *] to maintain my apps within the market place.
+Story #122: "As a developer, I want to enable customers to provide feedback about my App and need an easy way to watch this feedback."
+   Defect type: atomic.conjunctions
+   Message: As a developer, I want to enable customers to provide feedback about my App [* and *] need an easy way to watch this feedback.
+Story #124: "As a developer, I want to have the API to be well defined and well documented."
+   Defect type: atomic.conjunctions
+   Message: As a developer, I want to have the API to be well defined [* and *] well documented.
+Story #130: "As a developer, I want to be able to design my App on my own - though there will be a few rules I have to stand to."
+   Defect type: minimal.punctuation
+   Message: As a developer, I want to be able to design my App on my own  [*- though there will be a few rules I have to stand to.*] 
+Story #138: "As a developer, I want to have the ALFRED API to reduce the work to achieve my goals."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #20: "As an OlderPerson, I want to have a very good battery for ALFRED so I can keep him on the whole day."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As an, I want to, So that
+Story #69: "As a SocialCaregiver, I want ALFRED to remind me of the things I need to bring to the person I care for."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As an, I want to, So that

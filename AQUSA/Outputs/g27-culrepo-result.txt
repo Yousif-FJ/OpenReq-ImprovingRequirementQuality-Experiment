@@ -1,0 +1,294 @@
+Story #2: "As a faculty member, I want to direct students to an item within the repository, so that I can facilitate my teaching (i.e. desires ability to link to content)."
+   Defect type: minimal.punctuation
+   Message: As a faculty member, I want to direct students to an item within the repository, so that I can facilitate my teaching (i [*.e. desires ability to link to content).*] 
+Story #2: "As a faculty member, I want to direct students to an item within the repository, so that I can facilitate my teaching (i.e. desires ability to link to content)."
+   Defect type: minimal.brackets
+   Message: As a faculty member, I want to direct students to an item within the repository, so that I can facilitate my teaching  [*(i.e. desires ability to link to content)*] .
+Story #3: "As a Cornell faculty member, I want to upload data to the repository and associate it with a publication, so that I receive attribution for my data as well as my publications."
+   Defect type: atomic.conjunctions
+   Message: As a Cornell faculty member, I want to upload data to the repository [* and *] associate it with a publication, so that I receive attribution for my data as well as my publications.
+Story #4: "As a patron, I want to know which reports/datasets are coming out when, so that I can access latest report/dataset."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to know which reports [*/*] datasets are coming out when, so that I can access latest report/dataset.
+Story #5: "As a patron, I want to select/deselect reports/datasets to be emailed, possibly many at one time, when new versions are available."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to select [*/*] deselect reports/datasets to be emailed, possibly many at one time, when new versions are available.
+Story #6: "As a DB/IR administrator, I want to mark report/dataset not to be emailed/viewable due to error being discovered."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to mark report/dataset not to be emailed/viewable due to error being discovered.
+Story #6: "As a DB/IR administrator, I want to mark report/dataset not to be emailed/viewable due to error being discovered."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to mark report/dataset not to be emailed/viewable due to error being discovered.
+Story #7: "As a DB/IR administrator, I want to manage report/dataset name changes so patrons are able to find historic reports that have a different name from current report."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to manage report/dataset name changes so patrons are able to find historic reports that have a different name from current report.
+Story #7: "As a DB/IR administrator, I want to manage report/dataset name changes so patrons are able to find historic reports that have a different name from current report."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to manage report/dataset name changes so patrons are able to find historic reports that have a different name from current report.
+Story #8: "As a Cornell faculty member, I want to see clearly what reuse rights I have to files discovered in the repository, so that I know how I can reuse them."
+   Defect type: minimal.indicator_repetition
+   Message: As a Cornell faculty member, [* I want to *] see clearly what reuse rights I have to files discovered in the repository, so that I know how [* I can *] reuse them.
+Story #9: "As a library staff member, I want to apply or remove an access embargo to an item when asked to do this by an item author."
+   Defect type: atomic.conjunctions
+   Message: As a library staff member, I want to apply [* or *] remove an access embargo to an item when asked to do this by an item author.
+Story #11: "As a faculty member, I want to easily collect my publications -- both those within the repository and without -- into a single online access point, so that I can raise the profile of my work."
+   Defect type: minimal.punctuation
+   Message: As a faculty member, I want to easily collect my publications  [*-- both those within the repository and without -- into a single online access point, so that I can raise the profile of my work.*] 
+Story #12: "As a crossdeptprojteammember, I want to have a better place to collect and share project materials, with a range of organization/tagging and access options, including private (internal group use only), University and public."
+   Defect type: atomic.conjunctions
+   Message: As a crossdeptprojteammember, I want to have a better place to collect [* and *] share project materials, with a range of organization [*/*] tagging and access options, including private (internal group use only), University and public.
+Story #12: "As a crossdeptprojteammember, I want to have a better place to collect and share project materials, with a range of organization/tagging and access options, including private (internal group use only), University and public."
+   Defect type: minimal.brackets
+   Message: As a crossdeptprojteammember, I want to have a better place to collect and share project materials, with a range of organization/tagging and access options, including private  [*(internal group use only)*] , University and public.
+Story #13: "As a Cornell faculty member, I want to upload data and provide a cut and paste formatted citation for people who use it, so that I receive proper attribution for my work."
+   Defect type: atomic.conjunctions
+   Message: As a Cornell faculty member, I want to upload data [* and *] provide a cut and paste formatted citation for people who use it, so that I receive proper attribution for my work.
+Story #14: "As a patron, I want to view/upload content in multiple formats, including old formats such as Lotus Works."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to view [*/*] upload content in multiple formats, including old formats such as Lotus Works.
+Story #18: "As an administrator, I want to be able to use systems such as Symplectic Elements and Activity Insight to properly track faculty scholarly output in the repositories, so that I can facilitate personnel decisions."
+   Defect type: atomic.conjunctions
+   Message: As an administrator, I want to be able to use systems such as Symplectic Elements [* and *] Activity Insight to properly track faculty scholarly output in the repositories, so that I can facilitate personnel decisions.
+Story #19: "As a library staff member, I want to access useful and comprehensive usage statistics and analytics, including altmetrics, at the repository, collection, author, and item level, so that I can assess the results of this service."
+   Defect type: atomic.conjunctions
+   Message: As a library staff member, I want to access useful [* and *] comprehensive usage statistics and analytics, including altmetrics, at the repository, collection, author, and item level, so that I can assess the results of this service.
+Story #22: "As a DB/IR administrator, I want to see list of subscribers for specified report in order research missing report complaints."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to see list of subscribers for specified report in order research missing report complaints.
+Story #25: "As a library staff member, I want to create collections which highlight rare, archival, or endangered material, so that I can preserve and provide access to this material."
+   Defect type: atomic.conjunctions
+   Message: As a library staff member, I want to create collections which highlight rare, archival, [* or *] endangered material, so that I can preserve [* and *] provide access to this material.
+Story #26: "As an Extension Administrator, I want to have easy, well documented and supported workflows that can be easily passed on to others when she/others retire, so that continuity can be maintained."
+   Defect type: atomic.conjunctions
+   Message: As an Extension Administrator, I want to have easy, well documented [* and *] supported workflows that can be easily passed on to others when she [*/*] others retire, so that continuity can be maintained.
+Story #28: "As a Cornell faculty member, I want to upload a data file and put a CC-By or CC0 license on it, so that my licensing desires are clearly stated."
+   Defect type: atomic.conjunctions
+   Message: As a Cornell faculty member, I want to upload a data file [* and *] put a CC-By [* or *] CC0 license on it, so that my licensing desires are clearly stated.
+Story #29: "As a library staff member, I want to be able to tell the researchers I'm helping with DMPs that Cornell has a repository system I can use for archiving and sharing results of their research, so that I can easily meet the needs of funder DMP requirements."
+   Defect type: atomic.conjunctions
+   Message: As a library staff member, I want to be able to tell the researchers I'm helping with DMPs that Cornell has a repository system I can use for archiving [* and *] sharing results of their research, so that I can easily meet the needs of funder DMP requirements.
+Story #29: "As a library staff member, I want to be able to tell the researchers I'm helping with DMPs that Cornell has a repository system I can use for archiving and sharing results of their research, so that I can easily meet the needs of funder DMP requirements."
+   Defect type: minimal.indicator_repetition
+   Message: As a library staff member, [* I want to *] be able to tell the researchers I'm helping with DMPs that Cornell has a repository system [* I can *] use for archiving and sharing results of their research, so that I can easily meet the needs of funder DMP requirements.
+Story #30: "As a Cornell faculty member, I want to create a collection for my documents, or my organization's documents, and apply some distinctive branding to that collection, so that I can promote my work, or that of my organization."
+   Defect type: atomic.conjunctions
+   Message: As a Cornell faculty member, I want to create a collection for my documents, [* or *] my organization's documents, [* and *] apply some distinctive branding to that collection, so that I can promote my work, or that of my organization.
+Story #31: "As a Cornell faculty member, I want to easily find all the items in the repository that I have authored, by searching on my name (author name authority and/or identification issue), because I keeps my publications in the repository up-to-date and points people tithe repository."
+   Defect type: atomic.conjunctions
+   Message: As a Cornell faculty member, I want to easily find all the items in the repository that I have authored, by searching on my name (author name authority and [*/*] or identification issue), because I keeps my publications in the repository up-to-date [* and *] points people tithe repository.
+Story #31: "As a Cornell faculty member, I want to easily find all the items in the repository that I have authored, by searching on my name (author name authority and/or identification issue), because I keeps my publications in the repository up-to-date and points people tithe repository."
+   Defect type: minimal.brackets
+   Message: As a Cornell faculty member, I want to easily find all the items in the repository that I have authored, by searching on my name  [*(author name authority and/or identification issue)*] , because I keeps my publications in the repository up-to-date and points people tithe repository.
+Story #33: "As a repository support team member, I want to alias (or map) an item from one collection to another (so the item will appear to belong to both collections), because the collection owner has asked them to."
+   Defect type: minimal.brackets
+   Message: As a repository support team member, I want to alias  [*(or map)*]  an item from one collection to another  [*(so the item will appear to belong to both collections)*] , because the collection owner has asked them to.
+Story #37: "As a researcher, I want to receive updates when new works are published in a given collection or by a given author, so that I can discover more of their work."
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to receive updates when new works are published in a given collection [* or *] by a given author, so that I can discover more of their work.
+Story #38: "As a researcher, I want to search within a repository or collection in an effective manner, including searching within subsets of a given collection, so that I can facilitate my use of the collection."
+   Defect type: atomic.conjunctions
+   Message: As a researcher, I want to search within a repository [* or *] collection in an effective manner, including searching within subsets of a given collection, so that I can facilitate my use of the collection.
+Story #40: "As an academicresearcher, I want to the thesis paper of an influential judge or legal thinker to gain insight into how their initial scholarship got started."
+   Defect type: atomic.conjunctions
+   Message: As an academicresearcher, I want to the thesis paper of an influential judge [* or *] legal thinker to gain insight into how their initial scholarship got started.
+Story #41: "As a patron, I want to search for report/dataset with keywords or a partial or complete title to locate needed report/dataset."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to search for report [*/*] dataset with keywords [* or *] a partial or complete title to locate needed report/dataset.
+Story #42: "As a patron, I want to browse content by author or subject area to locate needed resources."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to browse content by author [* or *] subject area to locate needed resources.
+Story #43: "As a DB/IR administrator, I want to manage subject classifications for ease of patron browsing and searching."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to manage subject classifications for ease of patron browsing [* and *] searching.
+Story #43: "As a DB/IR administrator, I want to manage subject classifications for ease of patron browsing and searching."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to manage subject classifications for ease of patron browsing [* and *] searching.
+Story #44: "As a DB/IR administrator, I want to manage customizable relationship groups in support of patron see also option."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to manage customizable relationship groups in support of patron see also option.
+Story #48: "As an externaluser, I want to easily find and access research and educational materials from Cornell faculty related to a particular topic, which I can use to develop stronger research/evidence based programming, grant proposals, community policy, or business practices."
+   Defect type: atomic.conjunctions
+   Message: As an externaluser, I want to easily find [* and *] access research and educational materials from Cornell faculty related to a particular topic, which I can use to develop stronger research [*/*] evidence based programming, grant proposals, community policy, [* or *] business practices.
+Story #48: "As an externaluser, I want to easily find and access research and educational materials from Cornell faculty related to a particular topic, which I can use to develop stronger research/evidence based programming, grant proposals, community policy, or business practices."
+   Defect type: minimal.indicator_repetition
+   Message: As an externaluser, [* I want to *] easily find and access research and educational materials from Cornell faculty related to a particular topic, which [* I can *] use to develop stronger research/evidence based programming, grant proposals, community policy, or business practices.
+Story #49: "As a student, I want to learn who at Cornell has or is engaged in research related to a particular topic, so that I can decide if I would like to pursue studies/research at Cornell."
+   Defect type: atomic.conjunctions
+   Message: As a student, I want to learn who at Cornell has [* or *] is engaged in research related to a particular topic, so that I can decide if I would like to pursue studies [*/*] research at Cornell.
+Story #50: "As a student, I want to learn who at Cornell has or is engaged in research related to a particular topic, so that I can find an appropriate advisor, choose which courses to enroll in, and identify work/internship opportunities."
+   Defect type: atomic.conjunctions
+   Message: As a student, I want to learn who at Cornell has [* or *] is engaged in research related to a particular topic, so that I can find an appropriate advisor, choose which courses to enroll in, [* and *] identify work [*/*] internship opportunities.
+Story #50: "As a student, I want to learn who at Cornell has or is engaged in research related to a particular topic, so that I can find an appropriate advisor, choose which courses to enroll in, and identify work/internship opportunities."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #51: "As a teachingfacultymember, I want to identify timely and relevant research suitable for use in my curriculum, and be notified of new research/content."
+   Defect type: atomic.conjunctions
+   Message: As a teachingfacultymember, I want to identify timely [* and *] relevant research suitable for use in my curriculum, and be notified of new research [*/*] content.
+Story #52: "As a patron, I want to view multiple versions of a report/dataset to get both timely and historical information."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to view multiple versions of a report [*/*] dataset to get both timely [* and *] historical information.
+Story #53: "As a faculty member, I want to upload my scholarly work to the repository, so that I can reach a non-academic audience, expand my influence within my academic community, and use it for teaching."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #55: "As a library staff member, I want to create metadata for items within the repository that includes document title, description, author, document type, status, file locations, subscribable flag, subject area, release frequency, and keywords for searching."
+   Defect type: atomic.conjunctions
+   Message: As a library staff member, I want to create metadata for items within the repository that includes document title, description, author, document type, status, file locations, subscribable flag, subject area, release frequency, [* and *] keywords for searching.
+Story #58: "As a library staff member, I want to include supplementary files such as datasets, slideshows, etc. – with DOIs for each, as needed – when uploading a given work, so that I can provide a robust image of the work in question."
+   Defect type: minimal.punctuation
+   Message: As a library staff member, I want to include supplementary files such as datasets, slideshows, etc [*. – with DOIs for each, as needed – when uploading a given work, so that I can provide a robust image of the work in question.*] 
+Story #63: "As a DB/IR administrator, I want to upload revised report/dataset due to error in report/document."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to upload revised report/dataset due to error in report/document.
+Story #63: "As a DB/IR administrator, I want to upload revised report/dataset due to error in report/document."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to upload revised report/dataset due to error in report/document.
+Story #64: "As a DB/IR administrator, I want to upload new version of report/dataset while retaining previous versions for patron use."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to upload new version of report/dataset while retaining previous versions for patron use.
+Story #64: "As a DB/IR administrator, I want to upload new version of report/dataset while retaining previous versions for patron use."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to upload new version of report/dataset while retaining previous versions for patron use.
+Story #65: "As a DB/IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed and displayed properly."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed [* and *] displayed properly.
+Story #65: "As a DB/IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed and displayed properly."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed [* and *] displayed properly.
+Story #65: "As a DB/IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed and displayed properly."
+   Defect type: minimal.punctuation
+   Message: As a DB/IR administrator, I want to have the system recognize/categorize document type (e [*.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed and displayed properly.*] 
+Story #65: "As a DB/IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed and displayed properly."
+   Defect type: minimal.brackets
+   Message: As a DB/IR administrator, I want to have the system recognize/categorize document type  [*(e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file)*] , so that report/dataset is processed and displayed properly.
+Story #67: "As a repository support team member, I want to export a set of records and associated files, manipulate this data set, and reload into the system, because I am aware of a uniform error in a collection."
+   Defect type: atomic.conjunctions
+   Message: As a repository support team member, I want to export a set of records [* and *] associated files, manipulate this data set, and reload into the system, because I am aware of a uniform error in a collection.
+Story #72: "As a library staff member, I want to use content and metadata from the repository in other systems and/or web pages easily, so that I can deliver such content in the manner best fit to the audience or occasion."
+   Defect type: atomic.conjunctions
+   Message: As a library staff member, I want to use content [* and *] metadata from the repository in other systems and [*/*] or web pages easily, so that I can deliver such content in the manner best fit to the audience [* or *] occasion.
+Story #74: "As an Extension Administrator or Staff Content Manager, I want to get periodic IR reminders, including when something needs attention (including next ingestion/approval steps), or something that might need to move from a current knowledge collection to Historical."
+   Defect type: atomic.conjunctions
+   Message: As an Extension Administrator [* or *] Staff Content Manager, I want to get periodic IR reminders, including when something needs attention (including next ingestion [*/*] approval steps), or something that might need to move from a current knowledge collection to Historical.
+Story #74: "As an Extension Administrator or Staff Content Manager, I want to get periodic IR reminders, including when something needs attention (including next ingestion/approval steps), or something that might need to move from a current knowledge collection to Historical."
+   Defect type: atomic.conjunctions
+   Message: As an Extension Administrator [* or *] Staff Content Manager, I want to get periodic IR reminders, including when something needs attention (including next ingestion [*/*] approval steps), or something that might need to move from a current knowledge collection to Historical.
+Story #74: "As an Extension Administrator or Staff Content Manager, I want to get periodic IR reminders, including when something needs attention (including next ingestion/approval steps), or something that might need to move from a current knowledge collection to Historical."
+   Defect type: minimal.brackets
+   Message: As an Extension Administrator or Staff Content Manager, I want to get periodic IR reminders, including when something needs attention  [*(including next ingestion/approval steps)*] , or something that might need to move from a current knowledge collection to Historical.
+Story #76: "As an Extension Educator, I want to have a place to store a variety of documents, presentations and data sets I've created, that doesn't require an extra step in making available on my own County/Region/Project site (i.e. a list or directory of materials there is automatically updated when placed in a central archive/repository)."
+   Defect type: atomic.conjunctions
+   Message: As an Extension Educator, I want to have a place to store a variety of documents, presentations [* and *] data sets I've created, that doesn't require an extra step in making available on my own County [*/*] Region/Project site (i.e. a list [* or *] directory of materials there is automatically updated when placed in a central archive/repository).
+Story #76: "As an Extension Educator, I want to have a place to store a variety of documents, presentations and data sets I've created, that doesn't require an extra step in making available on my own County/Region/Project site (i.e. a list or directory of materials there is automatically updated when placed in a central archive/repository)."
+   Defect type: minimal.punctuation
+   Message: As an Extension Educator, I want to have a place to store a variety of documents, presentations and data sets I've created, that doesn't require an extra step in making available on my own County/Region/Project site (i [*.e. a list or directory of materials there is automatically updated when placed in a central archive/repository).*] 
+Story #76: "As an Extension Educator, I want to have a place to store a variety of documents, presentations and data sets I've created, that doesn't require an extra step in making available on my own County/Region/Project site (i.e. a list or directory of materials there is automatically updated when placed in a central archive/repository)."
+   Defect type: minimal.brackets
+   Message: As an Extension Educator, I want to have a place to store a variety of documents, presentations and data sets I've created, that doesn't require an extra step in making available on my own County/Region/Project site  [*(i.e. a list or directory of materials there is automatically updated when placed in a central archive/repository)*] .
+Story #77: "As a patron, I want to know other reports/datasets that are related (e.g. see also) to report/dataset being viewed for the purpose finding other related information."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to know other reports [*/*] datasets that are related (e.g. see also) to report/dataset being viewed for the purpose finding other related information.
+Story #77: "As a patron, I want to know other reports/datasets that are related (e.g. see also) to report/dataset being viewed for the purpose finding other related information."
+   Defect type: minimal.punctuation
+   Message: As a patron, I want to know other reports/datasets that are related (e [*.g. see also) to report/dataset being viewed for the purpose finding other related information.*] 
+Story #77: "As a patron, I want to know other reports/datasets that are related (e.g. see also) to report/dataset being viewed for the purpose finding other related information."
+   Defect type: minimal.brackets
+   Message: As a patron, I want to know other reports/datasets that are related  [*(e.g. see also)*]  to report/dataset being viewed for the purpose finding other related information.
+Story #78: "As a patron, I want to know previous name(s) and publication date range (first version-last version) of reports/datasets, so that I can know what historical versions are available and how current more recent version is."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to know previous name(s) [* and *] publication date range (first version-last version) of reports [*/*] datasets, so that I can know what historical versions are available and how current more recent version is.
+Story #78: "As a patron, I want to know previous name(s) and publication date range (first version-last version) of reports/datasets, so that I can know what historical versions are available and how current more recent version is."
+   Defect type: minimal.brackets
+   Message: As a patron, I want to know previous name [*(s)*]  and publication date range  [*(first version-last version)*]  of reports/datasets, so that I can know what historical versions are available and how current more recent version is.
+Story #79: "As a patron, I want to create a personal account to request email notification when new version of report/dataset is available."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to create a personal account to request email notification when new version of report [*/*] dataset is available.
+Story #80: "As a patron, I want to download report/dataset release calendar to load into own calendar."
+   Defect type: atomic.conjunctions
+   Message: As a patron, I want to download report [*/*] dataset release calendar to load into own calendar.
+Story #81: "As a librarydiscoveryoperator, I want to harvest useful metadata from the repository via OAI, and continue to do so incrementally, so that I can make Cornell publications discoverable in my repository."
+   Defect type: atomic.conjunctions
+   Message: As a librarydiscoveryoperator, I want to harvest useful metadata from the repository via OAI, [* and *] continue to do so incrementally, so that I can make Cornell publications discoverable in my repository.
+Story #81: "As a librarydiscoveryoperator, I want to harvest useful metadata from the repository via OAI, and continue to do so incrementally, so that I can make Cornell publications discoverable in my repository."
+   Defect type: minimal.indicator_repetition
+   Message: As a librarydiscoveryoperator, I want to harvest useful metadata from the repository via OAI, and continue to do [* so *] incrementally, [* so that *] I can make Cornell publications discoverable in my repository.
+Story #82: "As a library staff member, I want to quickly correct errors in uploaded metadata, and even uploaded documents, while leaving a record of my revisions (and possibly the reasons behind them), so that I can present correct versions of content and to locate points of error."
+   Defect type: atomic.conjunctions
+   Message: As a library staff member, I want to quickly correct errors in uploaded metadata, [* and *] even uploaded documents, while leaving a record of my revisions (and possibly the reasons behind them), so that I can present correct versions of content and to locate points of error.
+Story #82: "As a library staff member, I want to quickly correct errors in uploaded metadata, and even uploaded documents, while leaving a record of my revisions (and possibly the reasons behind them), so that I can present correct versions of content and to locate points of error."
+   Defect type: minimal.brackets
+   Message: As a library staff member, I want to quickly correct errors in uploaded metadata, and even uploaded documents, while leaving a record of my revisions  [*(and possibly the reasons behind them)*] , so that I can present correct versions of content and to locate points of error.
+Story #83: "As a library staff member, I want to receive a quick response and a reasonable resolution to tech support issues, so that service can proceed with minimal interruption."
+   Defect type: atomic.conjunctions
+   Message: As a library staff member, I want to receive a quick response [* and *] a reasonable resolution to tech support issues, so that service can proceed with minimal interruption.
+Story #84: "As a Cornell faculty member, I want to share on the repository files that are larger than 1GB in a way that still allows users to download them if I want to use them, so that I can meet funder requirements."
+   Defect type: minimal.indicator_repetition
+   Message: As a Cornell faculty member, [* I want to *] share on the repository files that are larger than 1GB in a way that still allows users to download them if [* I want to *] use them, so that I can meet funder requirements.
+Story #85: "As a DB/IR administrator, I want to login to personal account with access to authorized functions."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to login to personal account with access to authorized functions.
+Story #86: "As a DB/IR administrator, I want to have a personal account with the ability to change passwords to make them more secure or to retrieve forgotten ones."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to have a personal account with the ability to change passwords to make them more secure [* or *] to retrieve forgotten ones.
+Story #86: "As a DB/IR administrator, I want to have a personal account with the ability to change passwords to make them more secure or to retrieve forgotten ones."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to have a personal account with the ability to change passwords to make them more secure [* or *] to retrieve forgotten ones.
+Story #87: "As a DB/IR administrator, I want to set up or delete accounts for other administrators with various levels of permission."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to set up [* or *] delete accounts for other administrators with various levels of permission.
+Story #88: "As a DB/IR administrator, I want to see a list of all administrators for ease of administering accounts."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to see a list of all administrators for ease of administering accounts.
+Story #89: "As a DB/IR administrator, I want to have robust searching and tracking features for existing and newly created patron accounts."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to have robust searching [* and *] tracking features for existing and newly created patron accounts.
+Story #89: "As a DB/IR administrator, I want to have robust searching and tracking features for existing and newly created patron accounts."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to have robust searching [* and *] tracking features for existing and newly created patron accounts.
+Story #90: "As a DB/IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency.
+Story #90: "As a DB/IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency.
+Story #91: "As a DB/IR administrator, I want to add future release dates of reports/datasets to calendar for patron FYI."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to add future release dates of reports/datasets to calendar for patron FYI.
+Story #91: "As a DB/IR administrator, I want to add future release dates of reports/datasets to calendar for patron FYI."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to add future release dates of reports/datasets to calendar for patron FYI.
+Story #93: "As a DB/IR administrator, I want to search for administrator accounts using full/partial email or name."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to search for administrator accounts using full/partial email [* or *] name.
+Story #93: "As a DB/IR administrator, I want to search for administrator accounts using full/partial email or name."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to search for administrator accounts using full/partial email [* or *] name.
+Story #94: "As a DB/IR administrator, I want to administrate patron accounts for purpose of closing accounts, viewing subscriptions, changing subscriptions, resetting passwords, changing email address, etc."
+   Defect type: atomic.conjunctions
+   Message: As a DB [*/*] IR administrator, I want to administrate patron accounts for purpose of closing accounts, viewing subscriptions, changing subscriptions, resetting passwords, changing email address, etc.
+Story #100: "As an asset manager, I want to be assured that the redundant copies are continuously monitored for unwanted changes, and that if/when changes do occur, there is a mechanism by which I can determine the original object and restore it to all copies."
+   Defect type: atomic.conjunctions
+   Message: As an asset manager, I want to be assured that the redundant copies are continuously monitored for unwanted changes, [* and *] that if [*/*] when changes do occur, there is a mechanism by which I can determine the original object and restore it to all copies.
+Story #100: "As an asset manager, I want to be assured that the redundant copies are continuously monitored for unwanted changes, and that if/when changes do occur, there is a mechanism by which I can determine the original object and restore it to all copies."
+   Defect type: minimal.indicator_repetition
+   Message: As an asset manager, [* I want to *] be assured that the redundant copies are continuously monitored for unwanted changes, and that if/when changes do occur, there is a mechanism by which [* I can *] determine the original object and restore it to all copies.
+Story #101: "As an asset manager, I want to be assured that the assets can be taken out of the repository, and that the assets taken out are the same as those that are put in."
+   Defect type: atomic.conjunctions
+   Message: As an asset manager, I want to be assured that the assets can be taken out of the repository, [* and *] that the assets taken out are the same as those that are put in.
+Story #103: "As an asset manager, I want to have a mechanism to obtain a listing or understanding of all the assets that have been deposited, and their current status."
+   Defect type: atomic.conjunctions
+   Message: As an asset manager, I want to have a mechanism to obtain a listing [* or *] understanding of all the assets that have been deposited, [* and *] their current status.
+Story #104: "As an asset manager, I want to be assured that funding and staffing of the IR have a commitment to longevity of the repository through published plans and/or explicit contract clauses."
+   Defect type: atomic.conjunctions
+   Message: As an asset manager, I want to be assured that funding [* and *] staffing of the IR have a commitment to longevity of the repository through published plans and [*/*] or explicit contract clauses.
+Story #115: "As a data curator, I want to upload a new version of an item that has changed, while still allowing old versions to be accessed."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #7: "As a DB/IR administrator, I want to manage report/dataset name changes so patrons are able to find historic reports that have a different name from current report."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #33: "As a repository support team member, I want to alias (or map) an item from one collection to another (so the item will appear to belong to both collections), because the collection owner has asked them to."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #90: "As a DB/IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that

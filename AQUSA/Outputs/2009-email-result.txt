@@ -1,0 +1,765 @@
+Story #1: "﻿Ability for the user to send, receive, and delete e-mail and attachments."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #1: "﻿Ability for the user to send, receive, and delete e-mail and attachments."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #2: "Ability for the user to reply to e-mail and attachments."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #2: "Ability for the user to reply to e-mail and attachments."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #2: "Ability for the user to reply to e-mail and attachments."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #3: "Ability for the user to forward e-mail and attachments."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #3: "Ability for the user to forward e-mail and attachments."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #3: "Ability for the user to forward e-mail and attachments."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #4: "Ability for the user to print e-mail messages."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #4: "Ability for the user to print e-mail messages."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #4: "Ability for the user to print e-mail messages."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #5: "Ability for the user to customize e-mail messages with word processor like features for formatting of e-mail content."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #5: "Ability for the user to customize e-mail messages with word processor like features for formatting of e-mail content."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #5: "Ability for the user to customize e-mail messages with word processor like features for formatting of e-mail content."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #6: "Ability for the user to establish rules (auto reply, out of office reply, temporary transfer to another party, move files to inbox folders)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #6: "Ability for the user to establish rules (auto reply, out of office reply, temporary transfer to another party, move files to inbox folders)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #6: "Ability for the user to establish rules (auto reply, out of office reply, temporary transfer to another party, move files to inbox folders)."
+   Defect type: minimal.brackets
+   Message: Ability for the user to establish rules  [*(auto reply, out of office reply, temporary transfer to another party, move files to inbox folders)*] .
+Story #6: "Ability for the user to establish rules (auto reply, out of office reply, temporary transfer to another party, move files to inbox folders)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #7: "Ability for the user to spell check."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #7: "Ability for the user to spell check."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #7: "Ability for the user to spell check."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #8: "Ability for the user to organize content into personal folders or similar storage mechanism to aid with e-mail retrieval."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #8: "Ability for the user to organize content into personal folders or similar storage mechanism to aid with e-mail retrieval."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #8: "Ability for the user to organize content into personal folders or similar storage mechanism to aid with e-mail retrieval."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #9: "Ability for the agency admin to migrate existing public folders into the statewide e-mail system."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #9: "Ability for the agency admin to migrate existing public folders into the statewide e-mail system."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #9: "Ability for the agency admin to migrate existing public folders into the statewide e-mail system."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #10: "Ability for the agency admin to create and manage public folders or similar storage mechanism to aid with the collection, organization, and sharing of information with other people in their individual agency or organization."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #10: "Ability for the agency admin to create and manage public folders or similar storage mechanism to aid with the collection, organization, and sharing of information with other people in their individual agency or organization."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #10: "Ability for the agency admin to create and manage public folders or similar storage mechanism to aid with the collection, organization, and sharing of information with other people in their individual agency or organization."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #11: "Ability for the user to create contact lists, including those imported from other sources."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #11: "Ability for the user to create contact lists, including those imported from other sources."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #11: "Ability for the user to create contact lists, including those imported from other sources."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #12: "Ability for the user to export contact lists."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #12: "Ability for the user to export contact lists."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #12: "Ability for the user to export contact lists."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #13: "Ability for the user to share contact lists / address book."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #13: "Ability for the user to share contact lists / address book."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #13: "Ability for the user to share contact lists / address book."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #14: "Ability for the agency admin to create and share distribution lists (including the ability to create query based distribution lists from LDAP-like directory services)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #14: "Ability for the agency admin to create and share distribution lists (including the ability to create query based distribution lists from LDAP-like directory services)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #14: "Ability for the agency admin to create and share distribution lists (including the ability to create query based distribution lists from LDAP-like directory services)."
+   Defect type: minimal.brackets
+   Message: Ability for the agency admin to create and share distribution lists  [*(including the ability to create query based distribution lists from ldap-like directory services)*] .
+Story #14: "Ability for the agency admin to create and share distribution lists (including the ability to create query based distribution lists from LDAP-like directory services)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #15: "Ability for the user to create calendars and customize calendar views."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #15: "Ability for the user to create calendars and customize calendar views."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #15: "Ability for the user to create calendars and customize calendar views."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #16: "Ability for the user to schedule resources such as conference rooms, teleconference rooms, etc."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #16: "Ability for the user to schedule resources such as conference rooms, teleconference rooms, etc."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #16: "Ability for the user to schedule resources such as conference rooms, teleconference rooms, etc."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #17: "Ability for the user to create reminders and tasks."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #17: "Ability for the user to create reminders and tasks."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #17: "Ability for the user to create reminders and tasks."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #18: "Ability for the agency admin to accommodate programmer testing of e-mail functionality embedded in software applications."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #18: "Ability for the agency admin to accommodate programmer testing of e-mail functionality embedded in software applications."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #18: "Ability for the agency admin to accommodate programmer testing of e-mail functionality embedded in software applications."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #19: "Ability for the user to share inbox, calendar, and files with users, given permission."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #19: "Ability for the user to share inbox, calendar, and files with users, given permission."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #19: "Ability for the user to share inbox, calendar, and files with users, given permission."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #20: "Ability for the user to delegate their permissions to another user."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #20: "Ability for the user to delegate their permissions to another user."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #20: "Ability for the user to delegate their permissions to another user."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #21: "Ability for the user to embed links to files and websites in e-mails."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #21: "Ability for the user to embed links to files and websites in e-mails."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #21: "Ability for the user to embed links to files and websites in e-mails."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #22: "Ability for the agency admin to provision e-mail accounts for their individual agency or organization (including the ability to integrate e-mail account provisioning with LDAP-like directory services)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #22: "Ability for the agency admin to provision e-mail accounts for their individual agency or organization (including the ability to integrate e-mail account provisioning with LDAP-like directory services)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #22: "Ability for the agency admin to provision e-mail accounts for their individual agency or organization (including the ability to integrate e-mail account provisioning with LDAP-like directory services)."
+   Defect type: minimal.brackets
+   Message: Ability for the agency admin to provision e-mail accounts for their individual agency or organization  [*(including the ability to integrate e-mail account provisioning with ldap-like directory services)*] .
+Story #22: "Ability for the agency admin to provision e-mail accounts for their individual agency or organization (including the ability to integrate e-mail account provisioning with LDAP-like directory services)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #23: "Ability for the user to search for e-mails based on age, size, sender, recipient, subject, key word, attachment content."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #23: "Ability for the user to search for e-mails based on age, size, sender, recipient, subject, key word, attachment content."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #23: "Ability for the user to search for e-mails based on age, size, sender, recipient, subject, key word, attachment content."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #24: "Ability for the agency admin to auto-enforce standard conventions for creating accounts and distribution lists."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #24: "Ability for the agency admin to auto-enforce standard conventions for creating accounts and distribution lists."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #24: "Ability for the agency admin to auto-enforce standard conventions for creating accounts and distribution lists."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #25: "Ability for the data center admin to control message size limits for e-mail (inbound and outbound)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #25: "Ability for the data center admin to control message size limits for e-mail (inbound and outbound)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #25: "Ability for the data center admin to control message size limits for e-mail (inbound and outbound)."
+   Defect type: minimal.brackets
+   Message: Ability for the data center admin to control message size limits for e-mail  [*(inbound and outbound)*] .
+Story #25: "Ability for the data center admin to control message size limits for e-mail (inbound and outbound)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #26: "Ability for the agency admin to create generic email accounts/addresses to be accessed by multiple users."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #26: "Ability for the agency admin to create generic email accounts/addresses to be accessed by multiple users."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #26: "Ability for the agency admin to create generic email accounts/addresses to be accessed by multiple users."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #27: "Ability for the user to customize their view in the client application (such as adding fields, arranging fields, and ordering emails by fields)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #27: "Ability for the user to customize their view in the client application (such as adding fields, arranging fields, and ordering emails by fields)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #27: "Ability for the user to customize their view in the client application (such as adding fields, arranging fields, and ordering emails by fields)."
+   Defect type: minimal.brackets
+   Message: Ability for the user to customize their view in the client application  [*(such as adding fields, arranging fields, and ordering emails by fields)*] .
+Story #27: "Ability for the user to customize their view in the client application (such as adding fields, arranging fields, and ordering emails by fields)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #28: "Ability for the user to archive at the desktop."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #28: "Ability for the user to archive at the desktop."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #28: "Ability for the user to archive at the desktop."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #29: "Ability for the agency admin to provide a server based archiving solution."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #29: "Ability for the agency admin to provide a server based archiving solution."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #29: "Ability for the agency admin to provide a server based archiving solution."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #30: "Ability for the agency admin to archive at various regularly defined intervals."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #30: "Ability for the agency admin to archive at various regularly defined intervals."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #30: "Ability for the agency admin to archive at various regularly defined intervals."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #31: "Ability for the agency admin to search archive and forward, print and restore in bulk items from archive."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #31: "Ability for the agency admin to search archive and forward, print and restore in bulk items from archive."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #31: "Ability for the agency admin to search archive and forward, print and restore in bulk items from archive."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #32: "Ability for the agency admin to filter archive by sender, recipient, date, subject, content, attachments, keyword, etc."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #32: "Ability for the agency admin to filter archive by sender, recipient, date, subject, content, attachments, keyword, etc."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #32: "Ability for the agency admin to filter archive by sender, recipient, date, subject, content, attachments, keyword, etc."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #33: "Ability for the agency admin to provide long term retention separate from active e-mail system."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #33: "Ability for the agency admin to provide long term retention separate from active e-mail system."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #33: "Ability for the agency admin to provide long term retention separate from active e-mail system."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #34: "Ability for the agency admin to provide individual users the ability to search their portion of the archive repository."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #34: "Ability for the agency admin to provide individual users the ability to search their portion of the archive repository."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #34: "Ability for the agency admin to provide individual users the ability to search their portion of the archive repository."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #35: "Ability for the agency admin to meet Federal regulations for retention (i.e. Sarbanes Oxley, Gramm-Leach-Bliley Act (GLB), HIPAA, etc.)"
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #35: "Ability for the agency admin to meet Federal regulations for retention (i.e. Sarbanes Oxley, Gramm-Leach-Bliley Act (GLB), HIPAA, etc.)"
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #35: "Ability for the agency admin to meet Federal regulations for retention (i.e. Sarbanes Oxley, Gramm-Leach-Bliley Act (GLB), HIPAA, etc.)"
+   Defect type: minimal.punctuation
+   Message: Ability for the agency admin to meet Federal regulations for retention (i [*.e. Sarbanes Oxley, Gramm-Leach-Bliley Act (GLB), HIPAA, etc.)*] 
+Story #35: "Ability for the agency admin to meet Federal regulations for retention (i.e. Sarbanes Oxley, Gramm-Leach-Bliley Act (GLB), HIPAA, etc.)"
+   Defect type: minimal.brackets
+   Message: Ability for the agency admin to meet Federal regulations for retention  [*(i.e. sarbanes oxley, gramm-leach-bliley act (glb)*] , HIPAA, etc.)
+Story #35: "Ability for the agency admin to meet Federal regulations for retention (i.e. Sarbanes Oxley, Gramm-Leach-Bliley Act (GLB), HIPAA, etc.)"
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #36: "Ability for the agency admin to satisfy legal requests for e-mail discovery and provide printed or digital results."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #36: "Ability for the agency admin to satisfy legal requests for e-mail discovery and provide printed or digital results."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #36: "Ability for the agency admin to satisfy legal requests for e-mail discovery and provide printed or digital results."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #37: "Ability for the agency admin to capture all sent and received emails into the organization."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #37: "Ability for the agency admin to capture all sent and received emails into the organization."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #37: "Ability for the agency admin to capture all sent and received emails into the organization."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #38: "Ability for the agency admin to select the e-mail retention period for a specific e-mail (e.g. 1 year, 3 year, or 5 year)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #38: "Ability for the agency admin to select the e-mail retention period for a specific e-mail (e.g. 1 year, 3 year, or 5 year)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #38: "Ability for the agency admin to select the e-mail retention period for a specific e-mail (e.g. 1 year, 3 year, or 5 year)."
+   Defect type: minimal.punctuation
+   Message: Ability for the agency admin to select the e-mail retention period for a specific e-mail (e [*.g. 1 year, 3 year, or 5 year).*] 
+Story #38: "Ability for the agency admin to select the e-mail retention period for a specific e-mail (e.g. 1 year, 3 year, or 5 year)."
+   Defect type: minimal.brackets
+   Message: Ability for the agency admin to select the e-mail retention period for a specific e-mail  [*(e.g. 1 year, 3 year, or 5 year)*] .
+Story #38: "Ability for the agency admin to select the e-mail retention period for a specific e-mail (e.g. 1 year, 3 year, or 5 year)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #39: "Ability for the agency admin to search the e-mail "header" including Date: From, Subject, To, and CC."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #39: "Ability for the agency admin to search the e-mail "header" including Date: From, Subject, To, and CC."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #39: "Ability for the agency admin to search the e-mail "header" including Date: From, Subject, To, and CC."
+   Defect type: minimal.punctuation
+   Message: Ability for the agency admin to search the e-mail "header" including Date [*: From, Subject, To, and CC.*] 
+Story #39: "Ability for the agency admin to search the e-mail "header" including Date: From, Subject, To, and CC."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #40: "Ability for the agency admin to search the "body" of the e-mail including the header and all text contained within the e-mail itself."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #40: "Ability for the agency admin to search the "body" of the e-mail including the header and all text contained within the e-mail itself."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #40: "Ability for the agency admin to search the "body" of the e-mail including the header and all text contained within the e-mail itself."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #41: "Ability for the agency admin to perform a "full text" search including the header, body and any attachments to the e-mail."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #41: "Ability for the agency admin to perform a "full text" search including the header, body and any attachments to the e-mail."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #41: "Ability for the agency admin to perform a "full text" search including the header, body and any attachments to the e-mail."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #42: "Ability for the agency admin to support litigation requests by production of responsive e-mail in to a specified location, for read and redaction purposes."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #42: "Ability for the agency admin to support litigation requests by production of responsive e-mail in to a specified location, for read and redaction purposes."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #42: "Ability for the agency admin to support litigation requests by production of responsive e-mail in to a specified location, for read and redaction purposes."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #43: "Ability for the agency admin to move older data to tiered storage (lower cost storage) while maintaining accessibility."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #43: "Ability for the agency admin to move older data to tiered storage (lower cost storage) while maintaining accessibility."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #43: "Ability for the agency admin to move older data to tiered storage (lower cost storage) while maintaining accessibility."
+   Defect type: minimal.brackets
+   Message: Ability for the agency admin to move older data to tiered storage  [*(lower cost storage)*]  while maintaining accessibility.
+Story #43: "Ability for the agency admin to move older data to tiered storage (lower cost storage) while maintaining accessibility."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #44: "Ability for the agency admin to import data from other sources such as PST, NSF files into archiving solution."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #44: "Ability for the agency admin to import data from other sources such as PST, NSF files into archiving solution."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #44: "Ability for the agency admin to import data from other sources such as PST, NSF files into archiving solution."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #45: "Ability for the agency admin to put discovery search results on legal hold to suspend deletion."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #45: "Ability for the agency admin to put discovery search results on legal hold to suspend deletion."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #45: "Ability for the agency admin to put discovery search results on legal hold to suspend deletion."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #46: "Ability for the user (Legal, OIG, etc.) to review and mark discovery search results."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #46: "Ability for the user (Legal, OIG, etc.) to review and mark discovery search results."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #46: "Ability for the user (Legal, OIG, etc.) to review and mark discovery search results."
+   Defect type: minimal.brackets
+   Message: Ability for the user  [*(legal, oig, etc.)*]  to review and mark discovery search results.
+Story #46: "Ability for the user (Legal, OIG, etc.) to review and mark discovery search results."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #47: "Ability for the agency admin to search using Boolean fields."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #47: "Ability for the agency admin to search using Boolean fields."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #47: "Ability for the agency admin to search using Boolean fields."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #48: "Ability for the agency admin to archive based on policy (i.e. e-mail address, OU, group, organization, etc.)"
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #48: "Ability for the agency admin to archive based on policy (i.e. e-mail address, OU, group, organization, etc.)"
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #48: "Ability for the agency admin to archive based on policy (i.e. e-mail address, OU, group, organization, etc.)"
+   Defect type: minimal.punctuation
+   Message: Ability for the agency admin to archive based on policy (i [*.e. e-mail address, OU, group, organization, etc.)*] 
+Story #48: "Ability for the agency admin to archive based on policy (i.e. e-mail address, OU, group, organization, etc.)"
+   Defect type: minimal.brackets
+   Message: Ability for the agency admin to archive based on policy  [*(i.e. e-mail address, ou, group, organization, etc.)*] 
+Story #48: "Ability for the agency admin to archive based on policy (i.e. e-mail address, OU, group, organization, etc.)"
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #49: "Ability for the user to delete, or flag for deletion by system administrators, e-mails that have met their retention, in accordance with s.119.021(2)(c) which requires agencies to “systematically dispose of records no longer needed.” (Note: Deletion means complete removal/elimination of all copies of an email from all portions of the system)”"
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #49: "Ability for the user to delete, or flag for deletion by system administrators, e-mails that have met their retention, in accordance with s.119.021(2)(c) which requires agencies to “systematically dispose of records no longer needed.” (Note: Deletion means complete removal/elimination of all copies of an email from all portions of the system)”"
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #49: "Ability for the user to delete, or flag for deletion by system administrators, e-mails that have met their retention, in accordance with s.119.021(2)(c) which requires agencies to “systematically dispose of records no longer needed.” (Note: Deletion means complete removal/elimination of all copies of an email from all portions of the system)”"
+   Defect type: minimal.punctuation
+   Message: Ability for the user to delete, or flag for deletion by system administrators, e-mails that have met their retention, in accordance with s.119.021(2)(c) which requires agencies to “systematically dispose of records no longer needed.” (Note [*: Deletion means complete removal/elimination of all copies of an email from all portions of the system)”*] 
+Story #49: "Ability for the user to delete, or flag for deletion by system administrators, e-mails that have met their retention, in accordance with s.119.021(2)(c) which requires agencies to “systematically dispose of records no longer needed.” (Note: Deletion means complete removal/elimination of all copies of an email from all portions of the system)”"
+   Defect type: minimal.brackets
+   Message: Ability for the user to delete, or flag for deletion by system administrators, e-mails that have met their retention, in accordance with s.119.021 [*(2)*]  [*(c)*]  which requires agencies to “systematically dispose of records no longer needed.”  [*(note: deletion means complete removal/elimination of all copies of an email from all portions of the system)*] ”
+Story #49: "Ability for the user to delete, or flag for deletion by system administrators, e-mails that have met their retention, in accordance with s.119.021(2)(c) which requires agencies to “systematically dispose of records no longer needed.” (Note: Deletion means complete removal/elimination of all copies of an email from all portions of the system)”"
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #50: "Ability for the user to flag individual e-mails to not be archived."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #50: "Ability for the user to flag individual e-mails to not be archived."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #50: "Ability for the user to flag individual e-mails to not be archived."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #51: "Ability for the data center admin to recover at the file level."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #51: "Ability for the data center admin to recover at the file level."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #51: "Ability for the data center admin to recover at the file level."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #52: "Ability for the data center admin to recover all messages."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #52: "Ability for the data center admin to recover all messages."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #52: "Ability for the data center admin to recover all messages."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #53: "Ability for the data center admin to recover a specific e-mail message."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #53: "Ability for the data center admin to recover a specific e-mail message."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #53: "Ability for the data center admin to recover a specific e-mail message."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #54: "Ability for the data center admin to recover by mailbox."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #54: "Ability for the data center admin to recover by mailbox."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #54: "Ability for the data center admin to recover by mailbox."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #55: "Ability for the data center admin to recover by time."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #55: "Ability for the data center admin to recover by time."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #55: "Ability for the data center admin to recover by time."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #56: "Ability for the data center admin to maintain backup and restore event logs."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #56: "Ability for the data center admin to maintain backup and restore event logs."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #56: "Ability for the data center admin to maintain backup and restore event logs."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #57: "Ability for the data center admin to restore previous backup without service interruption."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #57: "Ability for the data center admin to restore previous backup without service interruption."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #57: "Ability for the data center admin to restore previous backup without service interruption."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #58: "Ability for the data center admin to provide pre-emptive e-mail virus protection (scanning prior to delivery at the mail server)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #58: "Ability for the data center admin to provide pre-emptive e-mail virus protection (scanning prior to delivery at the mail server)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #58: "Ability for the data center admin to provide pre-emptive e-mail virus protection (scanning prior to delivery at the mail server)."
+   Defect type: minimal.brackets
+   Message: Ability for the data center admin to provide pre-emptive e-mail virus protection  [*(scanning prior to delivery at the mail server)*] .
+Story #58: "Ability for the data center admin to provide pre-emptive e-mail virus protection (scanning prior to delivery at the mail server)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #59: "Ability for the data center admin to provide pre-emptive e-mail content filtering."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #59: "Ability for the data center admin to provide pre-emptive e-mail content filtering."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #59: "Ability for the data center admin to provide pre-emptive e-mail content filtering."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #60: "Ability for the data center admin to whitelist/blacklist senders by domain or IP address."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #60: "Ability for the data center admin to whitelist/blacklist senders by domain or IP address."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #60: "Ability for the data center admin to whitelist/blacklist senders by domain or IP address."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #61: "Ability for the data center admin to block or allow e-mail based on multiple message attributes."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #61: "Ability for the data center admin to block or allow e-mail based on multiple message attributes."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #61: "Ability for the data center admin to block or allow e-mail based on multiple message attributes."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #62: "Ability for the data center admin to integrate message hygiene (antispam/antivirus) with LDAP."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #62: "Ability for the data center admin to integrate message hygiene (antispam/antivirus) with LDAP."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #62: "Ability for the data center admin to integrate message hygiene (antispam/antivirus) with LDAP."
+   Defect type: minimal.brackets
+   Message: Ability for the data center admin to integrate message hygiene  [*(antispam/antivirus)*]  with LDAP.
+Story #62: "Ability for the data center admin to integrate message hygiene (antispam/antivirus) with LDAP."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #63: "Ability for the data center admin to provide message hygiene (antispam/antivirus) statistical reports."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #63: "Ability for the data center admin to provide message hygiene (antispam/antivirus) statistical reports."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #63: "Ability for the data center admin to provide message hygiene (antispam/antivirus) statistical reports."
+   Defect type: minimal.brackets
+   Message: Ability for the data center admin to provide message hygiene  [*(antispam/antivirus)*]  statistical reports.
+Story #63: "Ability for the data center admin to provide message hygiene (antispam/antivirus) statistical reports."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #64: "Ability for the user to encrypt outbound e-mail."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #64: "Ability for the user to encrypt outbound e-mail."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #64: "Ability for the user to encrypt outbound e-mail."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #65: "Ability for the user to establish TLS encryption with other businesses or customers."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #65: "Ability for the user to establish TLS encryption with other businesses or customers."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #65: "Ability for the user to establish TLS encryption with other businesses or customers."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #66: "Ability for the data center admin to protect the reputation of outbound mail gateways."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #66: "Ability for the data center admin to protect the reputation of outbound mail gateways."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #66: "Ability for the data center admin to protect the reputation of outbound mail gateways."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #67: "Ability for the data center admin to protect internal e-mail customer identity."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #67: "Ability for the data center admin to protect internal e-mail customer identity."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #67: "Ability for the data center admin to protect internal e-mail customer identity."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #68: "Ability for the user to access e-mail by secure web or client. (Calendar, Address book, Ability to send and receive)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #68: "Ability for the user to access e-mail by secure web or client. (Calendar, Address book, Ability to send and receive)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #68: "Ability for the user to access e-mail by secure web or client. (Calendar, Address book, Ability to send and receive)."
+   Defect type: minimal.punctuation
+   Message: Ability for the user to access e-mail by secure web or client [*. (Calendar, Address book, Ability to send and receive).*] 
+Story #68: "Ability for the user to access e-mail by secure web or client. (Calendar, Address book, Ability to send and receive)."
+   Defect type: minimal.brackets
+   Message: Ability for the user to access e-mail by secure web or client.  [*(calendar, address book, ability to send and receive)*] .
+Story #68: "Ability for the user to access e-mail by secure web or client. (Calendar, Address book, Ability to send and receive)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #69: "Ability for the user to access e-mail with Blackberry services using BlackBerry device."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #69: "Ability for the user to access e-mail with Blackberry services using BlackBerry device."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #69: "Ability for the user to access e-mail with Blackberry services using BlackBerry device."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #70: "Ability for the user to access e-mail with non-Blackberry mobile data devices (iPhones, Treos, Pres. Etc.)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #70: "Ability for the user to access e-mail with non-Blackberry mobile data devices (iPhones, Treos, Pres. Etc.)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #70: "Ability for the user to access e-mail with non-Blackberry mobile data devices (iPhones, Treos, Pres. Etc.)."
+   Defect type: minimal.punctuation
+   Message: Ability for the user to access e-mail with non-Blackberry mobile data devices (iPhones, Treos, Pres [*. Etc.).*] 
+Story #70: "Ability for the user to access e-mail with non-Blackberry mobile data devices (iPhones, Treos, Pres. Etc.)."
+   Defect type: minimal.brackets
+   Message: Ability for the user to access e-mail with non-Blackberry mobile data devices  [*(iphones, treos, pres. etc.)*] .
+Story #70: "Ability for the user to access e-mail with non-Blackberry mobile data devices (iPhones, Treos, Pres. Etc.)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #71: "Ability for the agency admin to support other mobile device protocols (ActiveSync)."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #71: "Ability for the agency admin to support other mobile device protocols (ActiveSync)."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #71: "Ability for the agency admin to support other mobile device protocols (ActiveSync)."
+   Defect type: minimal.brackets
+   Message: Ability for the agency admin to support other mobile device protocols  [*(activesync)*] .
+Story #71: "Ability for the agency admin to support other mobile device protocols (ActiveSync)."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #72: "Ability for the agency admin to Create, Update and Delete Blackberry accounts."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #72: "Ability for the agency admin to Create, Update and Delete Blackberry accounts."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #72: "Ability for the agency admin to Create, Update and Delete Blackberry accounts."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #73: "Ability for the user to access mailbox and components via a web browser over a secure (encrypted) connection."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #73: "Ability for the user to access mailbox and components via a web browser over a secure (encrypted) connection."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #73: "Ability for the user to access mailbox and components via a web browser over a secure (encrypted) connection."
+   Defect type: minimal.brackets
+   Message: Ability for the user to access mailbox and components via a web browser over a secure  [*(encrypted)*]  connection.
+Story #73: "Ability for the user to access mailbox and components via a web browser over a secure (encrypted) connection."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #74: "Ability for the user to send/receive e-mails within workflow applications."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #74: "Ability for the user to send/receive e-mails within workflow applications."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #74: "Ability for the user to send/receive e-mails within workflow applications."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #75: "Ability for the user to provide resource reservations integrated into e-mail."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #75: "Ability for the user to provide resource reservations integrated into e-mail."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #75: "Ability for the user to provide resource reservations integrated into e-mail."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #76: "Ability for the user to access an SMTP bridgehead for agency applications."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #76: "Ability for the user to access an SMTP bridgehead for agency applications."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #76: "Ability for the user to access an SMTP bridgehead for agency applications."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #77: "Ability for the user to integrate agency applications into the e-mail and mobile messaging environments."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #77: "Ability for the user to integrate agency applications into the e-mail and mobile messaging environments."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #77: "Ability for the user to integrate agency applications into the e-mail and mobile messaging environments."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories

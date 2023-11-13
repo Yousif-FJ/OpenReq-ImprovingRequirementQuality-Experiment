@@ -1,0 +1,111 @@
+Story #2: "As a Publisher, I want to publish a dataset, so that I can share the dataset publicly with everyone."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #3: "As a Publisher, I want to sign up for an account, so that that I can publish my data package to the registry and to have a publisher account to publish my data package under."
+   Defect type: minimal.indicator_repetition
+   Message: As a Publisher, [* I want to *] sign up for an account, so that that [* I can *] publish my data package to the registry and to have a publisher account to publish my data package under.
+Story #5: "As a Publisher, I want to know what do next after signing up, so that that I can get going quickly."
+   Defect type: minimal.indicator_repetition
+   Message: As a Publisher, [* I want to *] know what do next after signing up, so that that [* I can *] get going quickly.
+Story #14: "As a Consumer, I want to know that the data I am downloading is good and can be relied on, so that that I don't have to check it myself or run into annoying bugs later on."
+   Defect type: atomic.conjunctions
+   Message: As a Consumer, I want to know that the data I am downloading is good [* and *] can be relied on, so that that I don't have to check it myself [* or *] run into annoying bugs later on.
+Story #16: "As a Consumer, I want to be able to get the data for a data package even if the original data has been moved or removed, so that that I can still use is and my app or analysis keeps working."
+   Defect type: atomic.conjunctions
+   Message: As a Consumer, I want to be able to get the data for a data package even if the original data has been moved [* or *] removed, so that that I can still use is [* and *] my app or analysis keeps working.
+Story #16: "As a Consumer, I want to be able to get the data for a data package even if the original data has been moved or removed, so that that I can still use is and my app or analysis keeps working."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] be able to get the data for a data package even if the original data has been moved or removed, so that that [* I can *] still use is and my app or analysis keeps working.
+Story #21: "As a Publisher, I want to be able to preview the views of the current data package using cli prior to publishing, so that that I can refine the json declarations of datapackage view section to achieve a great looking result."
+   Defect type: minimal.indicator_repetition
+   Message: As a Publisher, [* I want to *] be able to preview the views of the current data package using cli prior to publishing, so that that [* I can *] refine the json declarations of datapackage view section to achieve a great looking result.
+Story #24: "As a consumer, I want to view the data package, so that that I can get a sense of whether I want this dataset or not."
+   Defect type: minimal.indicator_repetition
+   Message: As a consumer, [* I want to *] view the data package, so that that [* I can *] get a sense of whether [* I want *] this dataset or not.
+Story #25: "As a Publisher, I want to preview a datapackage I have prepared, so that that I can check it works and share the results."
+   Defect type: minimal.indicator_repetition
+   Message: As a Publisher, [* I want to *] preview a datapackage I have prepared, so that that [* I can *] check it works and share the results.
+Story #26: "As a Consumer, I want to see how much the data has been downloaded, so that that I can choose most popular in the case when there are several alternatives for my use case."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] see how much the data has been downloaded, so that that [* I can *] choose most popular in the case when there are several alternatives for my use case.
+Story #29: "As a Consumer, I want to search data packages, so that that I can find the ones I want."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] search data packages, so that that [* I can *] find the ones I want.
+Story #30: "As a Consumer, I want to search based on description of data package, so that that I can find package which related to some key words."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] search based on description of data package, so that that [* I can *] find package which related to some key words.
+Story #32: "As a Developer, I want to use data package as a node lib in my project, so that that I can depend on it using my normal dependency framework."
+   Defect type: minimal.indicator_repetition
+   Message: As a Developer, [* I want to *] use data package as a node lib in my project, so that that [* I can *] depend on it using my normal dependency framework.
+Story #33: "As a Consumer, I want to load a Data Package from R, so that that I can immediately start playing with it."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] load a Data Package from R, so that that [* I can *] immediately start playing with it.
+Story #34: "As a Data Analyst I want to download a data package, so that that I can study it and wrangle with it to infer new data or generate new insights."
+   Defect type: minimal.indicator_repetition
+   Message: As a Data Analyst [* I want to *] download a data package, so that that [* I can *] study it and wrangle with it to infer new data or generate new insights.
+Story #35: "As a Data Analyst, I want to update previously downloaded data package, so that that I can work with the most recent data."
+   Defect type: minimal.indicator_repetition
+   Message: As a Data Analyst, [* I want to *] update previously downloaded data package, so that that [* I can *] work with the most recent data.
+Story #36: "As a Consumer, I want to download a DataPackage's data one coherent SQLite database, so that that I can get it easily in one form."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] download a DataPackage's data one coherent SQLite database, so that that [* I can *] get it easily in one form.
+Story #37: "As a Data Analyst, I want to compare different versions of some datapackage locally, so that that I can see schema changes clearly and adjust my analytics code to the desired schema version."
+   Defect type: minimal.indicator_repetition
+   Message: As a Data Analyst, [* I want to *] compare different versions of some datapackage locally, so that that [* I can *] see schema changes clearly and adjust my analytics code to the desired schema version.
+Story #39: "As a Developer, I want to list all DataPackages requirements for my project in the file and pin the exact versions of any DataPackage that my project depends on, so that that the project can be deterministically deployed locally and won't break because of the DataPackage schema changes."
+   Defect type: atomic.conjunctions
+   Message: As a Developer, I want to list all DataPackages requirements for my project in the file [* and *] pin the exact versions of any DataPackage that my project depends on, so that that the project can be deterministically deployed locally and won't break because of the DataPackage schema changes.
+Story #42: "As a Publisher, I want to be able to overwrite the previously tagged datapackage, so that that I can fix it if I mess up."
+   Defect type: minimal.indicator_repetition
+   Message: As a Publisher, [* I want to *] be able to overwrite the previously tagged datapackage, so that that [* I can *] fix it if I mess up.
+Story #43: "As a Publisher, I want to version my Data Package and keep multiple versions around including older versions, so that that I do not break consumer systems when I change my datapackage."
+   Defect type: atomic.conjunctions
+   Message: As a Publisher, I want to version my Data Package [* and *] keep multiple versions around including older versions, so that that I do not break consumer systems when I change my datapackage.
+Story #44: "As a Publisher, I want to be able to get access to a previous version I tagged, so that that I can return to it and review it."
+   Defect type: minimal.indicator_repetition
+   Message: As a Publisher, [* I want to *] be able to get access to a previous version I tagged, so that that [* I can *] return to it and review it.
+Story #45: "As a Consumer, I want to know full details of how the data package schema has changed, so that that I can adjust my scripts to handle it."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] know full details of how the data package schema has changed, so that that [* I can *] adjust my scripts to handle it.
+Story #46: "As a Consumer, I want to get a sense of the age of the datapackage that I have downloaded before, so that that I can decide if I should update or not."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] get a sense of the age of the datapackage that I have downloaded before, so that that [* I can *] decide if I should update or not.
+Story #47: "As a Consumer, I want to view a Datapackage at a particular version online, so that that I can present/discuss the particular data timeslice of interest with other people."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] view a Datapackage at a particular version online, so that that [* I can *] present/discuss the particular data timeslice of interest with other people.
+Story #49: "As a Consumer, I want to be notified of changes to a package I care about, so that that I can check out what has changed and take action."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] be notified of changes to a package I care about, so that that [* I can *] check out what has changed and take action.
+Story #51: "As a Consumer, I want to browse and find publishers, so that that I can find interesting publishers and their packages."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] browse and find publishers, so that that [* I can *] find interesting publishers and their packages.
+Story #52: "As a Consumer, I want to see a publisher's profile, so that that I can discover their packages and get a sense of how active and good they are."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] see a publisher's profile, so that that [* I can *] discover their packages and get a sense of how active and good they are.
+Story #53: "As a Consumer, I want to view a publisher's profile, so that that I can see who is behind a particular package or to see what other packages they produce."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] view a publisher's profile, so that that [* I can *] see who is behind a particular package or to see what other packages they produce.
+Story #54: "As a Consumer, I want to search among all data packages owned by a publisher, so that that I can easily find one data package amongst all the data packages by this publisher."
+   Defect type: minimal.indicator_repetition
+   Message: As a Consumer, [* I want to *] search among all data packages owned by a publisher, so that that [* I can *] easily find one data package amongst all the data packages by this publisher.
+Story #57: "As an owner, I want to invite someone using their email to sign up and become a member of my Publisher, so that that they are authorized to publish data packages under my Publisher."
+   Defect type: atomic.conjunctions
+   Message: As an owner, I want to invite someone using their email to sign up [* and *] become a member of my Publisher, so that that they are authorized to publish data packages under my Publisher.
+Story #59: "As an owner, I want to view all the people in my organization and what roles they have, so that that I can change these if I want."
+   Defect type: atomic.conjunctions
+   Message: As an owner, I want to view all the people in my organization [* and *] what roles they have, so that that I can change these if I want.
+Story #59: "As an owner, I want to view all the people in my organization and what roles they have, so that that I can change these if I want."
+   Defect type: minimal.indicator_repetition
+   Message: As an owner, [* I want to *] view all the people in my organization and what roles they have, so that that [* I can *] change these if I want.
+Story #62: "As an Admin, I want to set key configuration parameters for my site deployment, so that that I can change key information like the site title."
+   Defect type: minimal.indicator_repetition
+   Message: As an Admin, [* I want to *] set key configuration parameters for my site deployment, so that that [* I can *] change key information like the site title.
+Story #64: "As an Admin, I want to have a pricing plan and billing system, so that that I can charge users and make my platform sustainable."
+   Defect type: minimal.indicator_repetition
+   Message: As an Admin, [* I want to *] have a pricing plan and billing system, so that that [* I can *] charge users and make my platform sustainable.
+Story #65: "As a Publisher, I want to know if this site has a pricing plan and what the prices are, so that that I can work out what this will cost me in the future and have a sense that these guys are sustainable."
+   Defect type: atomic.conjunctions
+   Message: As a Publisher, I want to know if this site has a pricing plan [* and *] what the prices are, so that that I can work out what this will cost me in the future and have a sense that these guys are sustainable.
+Story #65: "As a Publisher, I want to know if this site has a pricing plan and what the prices are, so that that I can work out what this will cost me in the future and have a sense that these guys are sustainable."
+   Defect type: minimal.indicator_repetition
+   Message: As a Publisher, [* I want to *] know if this site has a pricing plan and what the prices are, so that that [* I can *] work out what this will cost me in the future and have a sense that these guys are sustainable.

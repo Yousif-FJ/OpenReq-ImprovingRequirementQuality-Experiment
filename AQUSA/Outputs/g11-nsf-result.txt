@@ -1,0 +1,33 @@
+Story #3: "As a stakeholder, I want to have a decision on whether or not the blog aggregator may work for beta, and if not what will."
+   Defect type: atomic.conjunctions
+   Message: As a stakeholder, I want to have a decision on whether [* or *] not the blog aggregator may work for beta, [* and *] if not what will.
+Story #24: "As an NSF employee, I want to narrow down the universe of CMS options and identify/prioritize key considerations for getting to the next step."
+   Defect type: atomic.conjunctions
+   Message: As an NSF employee, I want to narrow down the universe of CMS options [* and *] identify [*/*] prioritize key considerations for getting to the next step.
+Story #27: "As an NSF employee, I want to understand work performed, so that I can understand when and what I can use later."
+   Defect type: minimal.indicator_repetition
+   Message: As an NSF employee, [* I want to *] understand work performed, so that I can understand when and what [* I can *] use later.
+Story #32: "As an NSF employee, I want to know how brand guidelines are developed and maintained, so that I can incorporate them throughout the project."
+   Defect type: atomic.conjunctions
+   Message: As an NSF employee, I want to know how brand guidelines are developed [* and *] maintained, so that I can incorporate them throughout the project.
+Story #33: "As a web recruiter manager, I want to confirm the recruiter is set up and working properly on Science360.gov."
+   Defect type: atomic.conjunctions
+   Message: As a web recruiter manager, I want to confirm the recruiter is set up [* and *] working properly on Science360.gov.
+Story #45: "As an NSF person interested in attending user interviews, I want to know when they are scheduled and the type of user that will be interviewed."
+   Defect type: atomic.conjunctions
+   Message: As an NSF person interested in attending user interviews, I want to know when they are scheduled [* and *] the type of user that will be interviewed.
+Story #46: "As an NSF member of the team, I want to have a place where I can access all the related reports and documentation, so that I can refer to it easily now and in the future."
+   Defect type: minimal.indicator_repetition
+   Message: As an NSF member of the team, [* I want to *] have a place where [* I can *] access all the related reports and documentation, so that I can refer to it easily now and in the future.
+Story #47: "As a team member, I want to know when the mid-point checkin is and what will be covered, so that I can plan accordingly."
+   Defect type: atomic.conjunctions
+   Message: As a team member, I want to know when the mid-point checkin is [* and *] what will be covered, so that I can plan accordingly.
+Story #53: "As a web recruiter manager, I want to confirm the recruiter is set up and working properly, so that I can deploy it on more pages."
+   Defect type: atomic.conjunctions
+   Message: As a web recruiter manager, I want to confirm the recruiter is set up [* and *] working properly, so that I can deploy it on more pages.
+Story #64: "As a potential research participant, I want to learn about the research and leave my contact information."
+   Defect type: atomic.conjunctions
+   Message: As a potential research participant, I want to learn about the research [* and *] leave my contact information.
+Story #73: "As a team member, I want to understand how work moves between UX/content > visual design > front end dev for a sprint cycle."
+   Defect type: atomic.conjunctions
+   Message: As a team member, I want to understand how work moves between UX [*/*] content  [*>*]  visual design > front end dev for a sprint cycle.

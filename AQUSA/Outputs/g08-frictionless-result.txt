@@ -1,0 +1,126 @@
+Story #17: "As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the best tool for the job."
+   Defect type: atomic.conjunctions
+   Message: As a Developer, I want to do exploratory data analysis in R [* and *] operationalize that analysis in Python, so that I can use the best tool for the job.
+Story #21: "As a Machine Learning expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can start using the data in doing analysis."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #21: "As a Machine Learning expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can start using the data in doing analysis."
+   Defect type: minimal.indicator_repetition
+   Message: As a Machine Learning expert, I would like to package ML datasets as data packages, [* so that *] I can easily import them into my ML platform, [* so that *] I can start using the data in doing analysis.
+Story #37: "As a Publisher, I would like an integration with Open Refine, so that I can output cleaned Data Packages."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #38: "As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API."
+   Defect type: minimal.indicator_repetition
+   Message: As a ResearcherPublisher, [* I want to *] publish Data Packages to CKAN, so that my data is findable, and [* I can *] have a data API.
+Story #39: "As a ResearcherDeveloper, would like the ability import/export from MS-SQL, so that I can use Data Packages in workflows that involve MS-SQL."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #42: "As a Publisher, I would like an integration with Excel, so that I can output cleaned Data Packages."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #42: "As a Publisher, I would like an integration with Excel, so that I can output cleaned Data Packages."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #44: "As a Repository Manager, I want a tool that makes it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful."
+   Defect type: atomic.conjunctions
+   Message: As a Repository Manager, I want a tool that makes it easy for researchers [*/*]  users to add basic metadata to their research data, so that it is more findable [* and *] therefore useful.
+Story #55: "As a Publisher, I want to add useful metadata or add in new data columns to make the dataset more useful."
+   Defect type: atomic.conjunctions
+   Message: As a Publisher, I want to add useful metadata [* or *] add in new data columns to make the dataset more useful.
+Story #57: "As a DeveloperDataWrangler, I want to store my Data Package in GitHub and have it automatically stored into CKAN, so that I get a data API and my dataset is listed in a relevant catalog."
+   Defect type: atomic.conjunctions
+   Message: As a DeveloperDataWrangler, I want to store my Data Package in GitHub [* and *] have it automatically stored into CKAN, so that I get a data API and my dataset is listed in a relevant catalog.
+Story #63: "As a developer, I would like to create a web socket protocol for Frictionless data tools, so that I can easily use data packages with additional data analysis tools."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #64: "As a Publisher, I would like a tool to check data availability persistence after publication."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #64: "As a Publisher, I would like a tool to check data availability persistence after publication."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #15: "As a Developer, I want a jQuery plugin for Core Data Packages, so that I can use it to apply to form control that uses a core dataset for autocompletion."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #21: "As a Machine Learning expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can start using the data in doing analysis."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #22: "As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #23: "As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipelines that use SPSS."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #24: "As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #25: "As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipelines that use Mongo."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #26: "As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipelines that use DAT."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #32: "As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipelines that use Dspace."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #33: "As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipelines that use Feather."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #34: "As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #35: "As a Researcher, working with data, I want an Microsoft Power BI integration, so that I can import datasets without downloading them locally."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #36: "As a ResearcherPublisher, I want an integration with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #37: "As a Publisher, I would like an integration with Open Refine, so that I can output cleaned Data Packages."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #39: "As a ResearcherDeveloper, would like the ability import/export from MS-SQL, so that I can use Data Packages in workflows that involve MS-SQL."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #40: "As a Researcher, working with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #41: "As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the service."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #42: "As a Publisher, I would like an integration with Excel, so that I can output cleaned Data Packages."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #44: "As a Repository Manager, I want a tool that makes it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #45: "As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #48: "As a developer, I want an online service that is connected to my data repository that validates data on update, so that I can delegate data validation to a third party."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #56: "As a publisher, I want to package reproducible steps to get a certain data state, so my methodology is transparent and can be rerun by others."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #58: "As a Researcher, I want a tool that can generate basic statistics about a dataset, so that I can get a quick preview of the data."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #59: "As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #60: "As a Researcher, I want an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package, so that I can use it to clean messy data."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #61: "As a Researcher, I want an app that create proxy Data Packages for well know and reliable data, sources, so that I can load high quality data using Data Package tooling."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #62: "As a RepositoryManagerResearcher, I want an app that acts as a match-making service for packaging data, so that owners are paired with data packagers."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #63: "As a developer, I would like to create a web socket protocol for Frictionless data tools, so that I can easily use data packages with additional data analysis tools."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #64: "As a Publisher, I would like a tool to check data availability persistence after publication."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that

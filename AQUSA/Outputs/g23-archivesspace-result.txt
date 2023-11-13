@@ -1,0 +1,60 @@
+Story #8: "to support data migration integrity testing."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #8: "to support data migration integrity testing."
+   Defect type: well_formed.no_role
+   Message: Add for who this story is
+Story #10: "As an Archivist, I want to be able to understand that an error occurred during import and why it might have occurred."
+   Defect type: atomic.conjunctions
+   Message: As an Archivist, I want to be able to understand that an error occurred during import [* and *] why it might have occurred.
+Story #15: "As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for Accessions and/or Resources before the list of Subjects."
+   Defect type: atomic.conjunctions
+   Message: As an Archivist, I want to see Dates [* and *] Extents displayed in both the read and edit views for Accessions and [*/*] or Resources before the list of Subjects.
+Story #21: "As an Application Administrator, I want to assign Users to an Advanced Data Entry and ensure that the appropriate permissions are enforced."
+   Defect type: atomic.conjunctions
+   Message: As an Application Administrator, I want to assign Users to an Advanced Data Entry [* and *] ensure that the appropriate permissions are enforced.
+Story #26: "As an Archivist, I want to add administrative data about the archival description and finding aid-related data to a top-level Resource."
+   Defect type: atomic.conjunctions
+   Message: As an Archivist, I want to add administrative data about the archival description [* and *] finding aid-related data to a top-level Resource.
+Story #27: "As an Archivist, I want to assign a Level of description to a Resource or Resource Component and optionally specify another value if the Level is not in a predefined list."
+   Defect type: atomic.conjunctions
+   Message: As an Archivist, I want to assign a Level of description to a Resource [* or *] Resource Component [* and *] optionally specify another value if the Level is not in a predefined list.
+Story #30: "As a systems administrator, I want to be able to control the location of the demo database and I want it to be backed up."
+   Defect type: atomic.conjunctions
+   Message: As a systems administrator, I want to be able to control the location of the demo database [* and *] I want it to be backed up.
+Story #30: "As a systems administrator, I want to be able to control the location of the demo database and I want it to be backed up."
+   Defect type: minimal.indicator_repetition
+   Message: As a systems administrator, [* I want to *] be able to control the location of the demo database and [* I want *] it to be backed up.
+Story #33: "As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-based navigation."
+   Defect type: atomic.conjunctions
+   Message: As an Archivist, I want to rearrange the Resource and [*/*] or Digital Object hierarchy using keyboard-based navigation.
+Story #35: "As an Archivist, I would like to indicate an Agent is either the creator or source or subject of an Accession or Resource or Resource Component."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #40: "As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #40: "As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #50: "As an Archivist, I want to specify the Source for a Name Form of an Agent and add new Sources and edit existing Sources."
+   Defect type: atomic.conjunctions
+   Message: As an Archivist, I want to specify the Source for a Name Form of an Agent [* and *] add new Sources and edit existing Sources.
+Story #3: "As a user, I want backend changes for managing enum lists."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As an, I want to
+Story #13: "As a user, I want frontend changes for managing enum lists."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As an, I want to
+Story #17: "As a user, I want backend changes to support loading enum value lists from the database."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As an, I want to
+Story #18: "As a user, I want backend changes for bulk updating one enum value to another."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As an, I want to
+Story #35: "As an Archivist, I would like to indicate an Agent is either the creator or source or subject of an Accession or Resource or Resource Component."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As an, I want to
+Story #40: "As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As an, I want to

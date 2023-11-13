@@ -1,0 +1,36 @@
+Story #12: "As a camp administrator, I want to be able to create, modify rules that campers and camp workers has to follow."
+   Defect type: atomic.conjunctions
+   Message: As a camp administrator, I want to be able to create, modify rules that campers [* and *] camp workers has to follow.
+Story #14: "As a camp administrator, I want to create an avenue so parents can submit feedback and general concerns, so that I can keep improving the services I provide."
+   Defect type: minimal.indicator_repetition
+   Message: As a camp administrator, I want to create an avenue [* so *] parents can submit feedback and general concerns, [* so that *] I can keep improving the services I provide.
+Story #26: "As a camp administrator, I want to be able to see all my camp groups and the events scheduled for each camp group, so that I can notify counselor of what their group will be doing for the day."
+   Defect type: atomic.conjunctions
+   Message: As a camp administrator, I want to be able to see all my camp groups [* and *] the events scheduled for each camp group, so that I can notify counselor of what their group will be doing for the day.
+Story #28: "As a camp administrator, I want to be able to delete tasks/activities I scheduled, so that I can keep the schedule clean of unneeded activities."
+   Defect type: atomic.conjunctions
+   Message: As a camp administrator, I want to be able to delete tasks [*/*] activities I scheduled, so that I can keep the schedule clean of unneeded activities.
+Story #29: "As a camp administrator, I want to be able to modify tasks/events I scheduled in case there is a change, so that I can always keep the schedule up to date."
+   Defect type: atomic.conjunctions
+   Message: As a camp administrator, I want to be able to modify tasks [*/*] events I scheduled in case there is a change, so that I can always keep the schedule up to date.
+Story #42: "As a parent, I want to be able to sign and submit consent forms online, so that I don't have to deal with my child losing a consent form."
+   Defect type: atomic.conjunctions
+   Message: As a parent, I want to be able to sign [* and *] submit consent forms online, so that I don't have to deal with my child losing a consent form.
+Story #50: "As a camp worker, I would be able to submit a completion report for the tasks which was assigned to me."
+   Defect type: well_formed.no_means
+   Message: Add what you want to achieve
+Story #54: "As a camp worker, I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly."
+   Defect type: unique.identical
+   Message: Remove all duplicate user stories
+Story #50: "As a camp worker, I would be able to submit a completion report for the tasks which was assigned to me."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #51: "As a camp worker, I'm able to report a camper to the manager with an inappropriate behavior."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #52: "As a camp worker, I'm able to report a list of supplies to the manager that the camp is short of."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
+Story #53: "As a camp worker, I'm able to report necessary repairs to the manager that the camp is needed of."
+   Defect type: uniform.uniform
+   Message: Use the most common template: As a, I want to, So that
