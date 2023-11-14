@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oizsWnj0VHVNtLF2wAC9k2GiWODM12+qWHgfuWyXSGhpfYVcs8FRpWlpo8pINqVrG4ynQfB7BYQSbuXvv83d3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yousef\\source\\repos\\Csv_Convert\\RequirementGeneratorForOpenReq\\ReqCsvToJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yousef\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

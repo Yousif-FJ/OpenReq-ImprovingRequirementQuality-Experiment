@@ -1,0 +1,12 @@
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\bin\Debug\net7.0\CommonTools.deps.json
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\bin\Debug\net7.0\CommonTools.dll
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\bin\Debug\net7.0\CommonTools.pdb
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\obj\Debug\net7.0\CommonTools.csproj.AssemblyReference.cache
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\obj\Debug\net7.0\CommonTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\obj\Debug\net7.0\CommonTools.AssemblyInfoInputs.cache
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\obj\Debug\net7.0\CommonTools.AssemblyInfo.cs
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\obj\Debug\net7.0\CommonTools.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\obj\Debug\net7.0\CommonTools.dll
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\obj\Debug\net7.0\refint\CommonTools.dll
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\obj\Debug\net7.0\CommonTools.pdb
+C:\Users\Yousef\source\repos\Csv_Convert\CommonTools\obj\Debug\net7.0\ref\CommonTools.dll

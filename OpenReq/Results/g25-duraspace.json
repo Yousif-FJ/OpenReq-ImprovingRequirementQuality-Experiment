@@ -1,0 +1,2746 @@
+{
+  "1": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 95,
+      "index_start": 94,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 93,
+      "index_start": 88,
+      "language_construct": "Vague Pronoun",
+      "text": "which",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 83,
+      "index_start": 44,
+      "language_construct": "Coordination",
+      "text": "the collections and objects in the DAMS",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 125,
+      "index_start": 101,
+      "language_construct": "Nominalization",
+      "text": "custodial responsibility",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "10": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 133,
+      "index_start": 129,
+      "language_construct": "Subjective Language",
+      "text": "many",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 81,
+      "index_start": 79,
+      "language_construct": "Vague Pronoun",
+      "text": "it",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 71,
+      "index_start": 68,
+      "language_construct": "Vague Pronoun",
+      "text": "its",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 111,
+      "index_start": 108,
+      "language_construct": "Vague Pronoun",
+      "text": "its",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 121,
+      "index_start": 120,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 77,
+      "index_start": 58,
+      "language_construct": "Nominalization",
+      "text": "including its title",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "100": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 87,
+      "index_start": 76,
+      "language_construct": "Subjective Language",
+      "text": "was deleted",
+      "title": "Passive Voice Ambiguity"
+    }
+  ],
+  "11": [
+    {
+      "description": "These optional words are likely not necessary and may add ambiguity.",
+      "index_end": 82,
+      "index_start": 76,
+      "language_construct": "Ambiguous Adverb or Adjective",
+      "text": "either",
+      "title": "Optional"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "12": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "13": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 85,
+      "index_start": 81,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    }
+  ],
+  "14": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 76,
+      "index_start": 40,
+      "language_construct": "Nominalization",
+      "text": "all events occurring to a collection",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "15": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "16": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 40,
+      "index_start": 38,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 72,
+      "index_start": 71,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    }
+  ],
+  "17": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 40,
+      "index_start": 37,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 78,
+      "index_start": 37,
+      "language_construct": "Nominalization",
+      "text": "all the components belonging to an object",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "18": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 41,
+      "index_start": 38,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 24,
+      "index_start": 23,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "19": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 68,
+      "index_start": 65,
+      "language_construct": "Vague Pronoun",
+      "text": "its",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 81,
+      "index_start": 80,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 94,
+      "index_start": 93,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 115,
+      "index_start": 55,
+      "language_construct": "Nominalization",
+      "text": "including its title , date(s ) , language(s ) , and other aspects",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "2": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 137,
+      "index_start": 134,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These weak words are likely to introduce ambiguity.",
+      "index_end": 116,
+      "index_start": 112,
+      "language_construct": "Subjective Language",
+      "text": "will",
+      "title": "Weak"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 146,
+      "index_start": 138,
+      "language_construct": "Subjective Language",
+      "text": "relevant",
+      "title": "Vague"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 103,
+      "index_start": 93,
+      "language_construct": "Subjective Language",
+      "text": "be assured",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 130,
+      "index_start": 117,
+      "language_construct": "Subjective Language",
+      "text": "be propagated",
+      "title": "Passive Voice Ambiguity"
+    }
+  ],
+  "20": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "21": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 57,
+      "index_start": 53,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 69,
+      "index_start": 58,
+      "language_construct": "Subjective Language",
+      "text": "are related",
+      "title": "Passive Voice Ambiguity"
+    }
+  ],
+  "22": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "23": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 47,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "24": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 47,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "25": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 47,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "26": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 47,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 99,
+      "index_start": 95,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These weak words are likely to introduce ambiguity.",
+      "index_end": 103,
+      "index_start": 100,
+      "language_construct": "Subjective Language",
+      "text": "may",
+      "title": "Weak"
+    },
+    {
+      "description": "Following an adjective by two nouns joint by 'and' or 'or' makes it unclear if the adjective describes the first noun only or both nouns.",
+      "index_end": 81,
+      "index_start": 48,
+      "language_construct": "Coordination",
+      "text": "external versions or descriptions",
+      "title": "Coordination of two nouns modified by an adjective"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 94,
+      "index_start": 44,
+      "language_construct": "Coordination",
+      "text": "any external versions or descriptions of an object",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "27": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "28": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 38,
+      "index_start": 34,
+      "language_construct": "Vague Pronoun",
+      "text": "what",
+      "title": "Pronoun"
+    }
+  ],
+  "29": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 19,
+      "index_start": 18,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 37,
+      "index_start": 33,
+      "language_construct": "Vague Pronoun",
+      "text": "what",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 49,
+      "index_start": 48,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    }
+  ],
+  "3": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 68,
+      "index_start": 66,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 104,
+      "index_start": 102,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    }
+  ],
+  "30": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 30,
+      "index_start": 26,
+      "language_construct": "Vague Pronoun",
+      "text": "what",
+      "title": "Pronoun"
+    }
+  ],
+  "31": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 30,
+      "index_start": 26,
+      "language_construct": "Vague Pronoun",
+      "text": "what",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 42,
+      "index_start": 41,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    }
+  ],
+  "32": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 28,
+      "index_start": 25,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "33": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "34": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "35": [
+    {
+      "description": "These expressions are not concise.",
+      "index_end": 87,
+      "index_start": 82,
+      "language_construct": "Subjective Language",
+      "text": "might",
+      "title": "Imprecise"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 67,
+      "index_start": 64,
+      "language_construct": "Vague Pronoun",
+      "text": "its",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 103,
+      "index_start": 101,
+      "language_construct": "Vague Pronoun",
+      "text": "me",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 81,
+      "index_start": 77,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These weak words are likely to introduce ambiguity.",
+      "index_end": 87,
+      "index_start": 82,
+      "language_construct": "Subjective Language",
+      "text": "might",
+      "title": "Weak"
+    }
+  ],
+  "36": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 62,
+      "index_start": 61,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 72,
+      "index_start": 65,
+      "language_construct": "Subjective Language",
+      "text": "logical",
+      "title": "Vague"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 57,
+      "index_start": 49,
+      "language_construct": "Subjective Language",
+      "text": "physical",
+      "title": "Vague"
+    }
+  ],
+  "37": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 68,
+      "index_start": 63,
+      "language_construct": "Vague Pronoun",
+      "text": "their",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 80,
+      "index_start": 69,
+      "language_construct": "Subjective Language",
+      "text": "appropriate",
+      "title": "Vague"
+    },
+    {
+      "description": "Dangerous plural with ambiguous reference.",
+      "index_end": 68,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all the components, in their",
+      "title": "Dangerous Reference Plural"
+    }
+  ],
+  "38": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 57,
+      "index_start": 46,
+      "language_construct": "Subjective Language",
+      "text": "appropriate",
+      "title": "Vague"
+    }
+  ],
+  "39": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 48,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "each",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 95,
+      "index_start": 94,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 108,
+      "index_start": 107,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 71,
+      "index_start": 62,
+      "language_construct": "Subjective Language",
+      "text": "necessary",
+      "title": "Vague"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 128,
+      "index_start": 73,
+      "language_construct": "Nominalization",
+      "text": "including title , date(s ) , language(s ) , and other facets",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "4": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 29,
+      "index_start": 26,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 74,
+      "index_start": 70,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 69,
+      "index_start": 30,
+      "language_construct": "Coordination",
+      "text": "the collections and objects in the DAMS",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "40": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 47,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 57,
+      "index_start": 53,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    }
+  ],
+  "41": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 47,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 60,
+      "index_start": 56,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    }
+  ],
+  "42": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 103,
+      "index_start": 99,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    }
+  ],
+  "43": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "44": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "45": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "46": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 84,
+      "index_start": 81,
+      "language_construct": "Vague Pronoun",
+      "text": "its",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Dangerous plural with ambiguous reference.",
+      "index_end": 84,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all events occurring to a component over its",
+      "title": "Dangerous Reference Plural"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 95,
+      "index_start": 40,
+      "language_construct": "Nominalization",
+      "text": "all events occurring to a component over its life cycle",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "47": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 64,
+      "index_start": 61,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 45,
+      "index_start": 40,
+      "language_construct": "Vague Pronoun",
+      "text": "their",
+      "title": "Pronoun"
+    }
+  ],
+  "48": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two verbs joint by 'and' or 'or' by a noun makes it unclear if the noun describes the second verb only or both verbs.",
+      "index_end": 62,
+      "index_start": 32,
+      "language_construct": "Coordination",
+      "text": "see and navigate the component",
+      "title": "Coordination of two verbs followed by a noun"
+    }
+  ],
+  "49": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 80,
+      "index_start": 78,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    }
+  ],
+  "5": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "50": [
+    {
+      "description": "These optional words are likely not necessary and may add ambiguity.",
+      "index_end": 71,
+      "index_start": 65,
+      "language_construct": "Ambiguous Adverb or Adjective",
+      "text": "either",
+      "title": "Optional"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 104,
+      "index_start": 72,
+      "language_construct": "Coordination",
+      "text": "an object or an object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "51": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 89,
+      "index_start": 86,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 95,
+      "index_start": 93,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 54,
+      "index_start": 50,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    }
+  ],
+  "52": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 113,
+      "index_start": 110,
+      "language_construct": "Vague Pronoun",
+      "text": "its",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 94,
+      "index_start": 88,
+      "language_construct": "Subjective Language",
+      "text": "useful",
+      "title": "Vague"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 219,
+      "index_start": 194,
+      "language_construct": "Coordination",
+      "text": "format and format version",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 70,
+      "index_start": 41,
+      "language_construct": "Compound Noun",
+      "text": "preservation managers aspects",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 219,
+      "index_start": 153,
+      "language_construct": "Nominalization",
+      "text": "including file size , creation date , file format and format version",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 219,
+      "index_start": 129,
+      "language_construct": "Nominalization",
+      "text": "impending obsolescence , including file size , creation date , file format and format version",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 182,
+      "index_start": 174,
+      "language_construct": "Nominalization",
+      "text": "creation",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "53": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 104,
+      "index_start": 100,
+      "language_construct": "Subjective Language",
+      "text": "each",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 95,
+      "index_start": 63,
+      "language_construct": "Coordination",
+      "text": "the checksum and checksum method",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 53,
+      "index_start": 41,
+      "language_construct": "Nominalization",
+      "text": "preservation",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "54": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 88,
+      "index_start": 86,
+      "language_construct": "Vague Pronoun",
+      "text": "it",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 98,
+      "index_start": 92,
+      "language_construct": "Subjective Language",
+      "text": "useful",
+      "title": "Vague"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 68,
+      "index_start": 42,
+      "language_construct": "Compound Noun",
+      "text": "source capture information",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "55": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 68,
+      "index_start": 65,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 134,
+      "index_start": 130,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 85,
+      "index_start": 80,
+      "language_construct": "Vague Pronoun",
+      "text": "which",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 161,
+      "index_start": 157,
+      "language_construct": "Subjective Language",
+      "text": "more",
+      "title": "Vague"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 151,
+      "index_start": 139,
+      "language_construct": "Subjective Language",
+      "text": "been updated",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "Property definitions should be explicit. Thus it is bad practice to define a system's property by comparing it to another system.",
+      "index_end": 161,
+      "index_start": 157,
+      "language_construct": "Comparatives and Superlatives",
+      "text": "more",
+      "title": "Comparative Adverb"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 51,
+      "index_start": 39,
+      "language_construct": "Nominalization",
+      "text": "preservation",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "56": [
+    {
+      "description": "These optional words are likely not necessary and may add ambiguity.",
+      "index_end": 95,
+      "index_start": 88,
+      "language_construct": "Ambiguous Adverb or Adjective",
+      "text": "whether",
+      "title": "Optional"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 76,
+      "index_start": 75,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 46,
+      "index_start": 42,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 74,
+      "index_start": 70,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These weak words are likely to introduce ambiguity.",
+      "index_end": 80,
+      "index_start": 77,
+      "language_construct": "Subjective Language",
+      "text": "can",
+      "title": "Weak"
+    }
+  ],
+  "57": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 58,
+      "index_start": 55,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 79,
+      "index_start": 77,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 65,
+      "index_start": 59,
+      "language_construct": "Subjective Language",
+      "text": "useful",
+      "title": "Vague"
+    }
+  ],
+  "58": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "59": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "6": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 63,
+      "index_start": 60,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 22,
+      "index_start": 21,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 133,
+      "index_start": 122,
+      "language_construct": "Subjective Language",
+      "text": "appropriate",
+      "title": "Vague"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 147,
+      "index_start": 51,
+      "language_construct": "Nominalization",
+      "text": "browsing all formal collections represented in the DAMS along with the appropriate relationships",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "60": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "61": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 131,
+      "index_start": 128,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "62": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 46,
+      "index_start": 43,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 107,
+      "index_start": 104,
+      "language_construct": "Vague Pronoun",
+      "text": "its",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 123,
+      "index_start": 94,
+      "language_construct": "Nominalization",
+      "text": "including its component parts",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "63": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 107,
+      "index_start": 104,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 46,
+      "index_start": 43,
+      "language_construct": "Vague Pronoun",
+      "text": "its",
+      "title": "Pronoun"
+    }
+  ],
+  "64": [
+    {
+      "description": "Speciﬁcations should be positive.",
+      "index_end": 116,
+      "index_start": 113,
+      "language_construct": "Negative Statement",
+      "text": "not",
+      "title": "Negative"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 108,
+      "index_start": 104,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 51,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "various",
+      "title": "Vague"
+    }
+  ],
+  "65": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 46,
+      "index_start": 43,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 81,
+      "index_start": 79,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 137,
+      "index_start": 43,
+      "language_construct": "Nominalization",
+      "text": "all modifications made to notes for my repository 's collections , objects , or object components",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "66": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 177,
+      "index_start": 174,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 166,
+      "index_start": 165,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 39,
+      "index_start": 32,
+      "language_construct": "Subjective Language",
+      "text": "various",
+      "title": "Vague"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 127,
+      "index_start": 120,
+      "language_construct": "Subjective Language",
+      "text": "various",
+      "title": "Vague"
+    }
+  ],
+  "67": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 57,
+      "index_start": 56,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    }
+  ],
+  "68": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 46,
+      "index_start": 43,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 72,
+      "index_start": 71,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    }
+  ],
+  "69": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 29,
+      "index_start": 27,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    }
+  ],
+  "7": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 71,
+      "index_start": 70,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 69,
+      "index_start": 64,
+      "language_construct": "Vague Pronoun",
+      "text": "which",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 102,
+      "index_start": 77,
+      "language_construct": "Nominalization",
+      "text": "curatorial responsibility",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "70": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 66,
+      "index_start": 62,
+      "language_construct": "Subjective Language",
+      "text": "each",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 101,
+      "index_start": 99,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    }
+  ],
+  "71": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 66,
+      "index_start": 35,
+      "language_construct": "Coordination",
+      "text": "collections and objects by name",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "72": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 170,
+      "index_start": 167,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 48,
+      "index_start": 44,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    }
+  ],
+  "73": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 104,
+      "index_start": 101,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "74": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 47,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 61,
+      "index_start": 57,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    }
+  ],
+  "75": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 205,
+      "index_start": 202,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 134,
+      "index_start": 133,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 205,
+      "index_start": 104,
+      "language_construct": "Nominalization",
+      "text": "including title , topic , genre / form , geographical name , function , occupation , name , cartographics , etc",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 205,
+      "index_start": 169,
+      "language_construct": "Nominalization",
+      "text": "occupation , name , cartographics , etc",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "76": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 71,
+      "index_start": 68,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 85,
+      "index_start": 81,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 100,
+      "index_start": 94,
+      "language_construct": "Subjective Language",
+      "text": "useful",
+      "title": "Vague"
+    }
+  ],
+  "77": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "78": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 47,
+      "index_start": 44,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 107,
+      "index_start": 103,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following an adjective by two nouns joint by 'and' or 'or' makes it unclear if the adjective describes the first noun only or both nouns.",
+      "index_end": 88,
+      "index_start": 54,
+      "language_construct": "Coordination",
+      "text": "pertinent versions or descriptions",
+      "title": "Coordination of two nouns modified by an adjective"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 102,
+      "index_start": 44,
+      "language_construct": "Coordination",
+      "text": "all other pertinent versions or descriptions of a resource",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "79": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 32,
+      "index_start": 29,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following an adjective by two nouns joint by 'and' or 'or' makes it unclear if the adjective describes the first noun only or both nouns.",
+      "index_end": 73,
+      "index_start": 39,
+      "language_construct": "Coordination",
+      "text": "pertinent versions or descriptions",
+      "title": "Coordination of two nouns modified by an adjective"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 89,
+      "index_start": 29,
+      "language_construct": "Coordination",
+      "text": "all other pertinent versions or descriptions of the resource",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "8": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "The combination of 'and' and 'or' leads to unclear associativity.",
+      "index_end": 261,
+      "index_start": 210,
+      "language_construct": "Subjective Language",
+      "text": "or assembly a collection from other collections and",
+      "title": "Unclear Associativity"
+    },
+    {
+      "description": "Following an adjective by two nouns joint by 'and' or 'or' makes it unclear if the adjective describes the first noun only or both nouns.",
+      "index_end": 269,
+      "index_start": 240,
+      "language_construct": "Coordination",
+      "text": "other collections and objects",
+      "title": "Coordination of two nouns modified by an adjective"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 181,
+      "index_start": 56,
+      "language_construct": "Nominalization",
+      "text": "limiting the collection to the items sharing the same provenance , limiting the collection to represent a part of a collection",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 181,
+      "index_start": 122,
+      "language_construct": "Nominalization",
+      "text": "limiting the collection to represent a part of a collection",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "80": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 63,
+      "index_start": 60,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 69,
+      "index_start": 67,
+      "language_construct": "Vague Pronoun",
+      "text": "my",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 101,
+      "index_start": 97,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    }
+  ],
+  "81": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 71,
+      "index_start": 68,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 87,
+      "index_start": 82,
+      "language_construct": "Vague Pronoun",
+      "text": "which",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 55,
+      "index_start": 43,
+      "language_construct": "Nominalization",
+      "text": "preservation",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "82": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "83": [
+    {
+      "description": "These optional words are likely not necessary and may add ambiguity.",
+      "index_end": 132,
+      "index_start": 126,
+      "language_construct": "Ambiguous Adverb or Adjective",
+      "text": "either",
+      "title": "Optional"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 38,
+      "index_start": 34,
+      "language_construct": "Vague Pronoun",
+      "text": "what",
+      "title": "Pronoun"
+    },
+    {
+      "description": "The combination of 'and' and 'or' leads to unclear associativity.",
+      "index_end": 97,
+      "index_start": 47,
+      "language_construct": "Subjective Language",
+      "text": "or object components are still under copyright and",
+      "title": "Unclear Associativity"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 117,
+      "index_start": 105,
+      "language_construct": "Subjective Language",
+      "text": "be displayed",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 160,
+      "index_start": 146,
+      "language_construct": "Nominalization",
+      "text": "incurring risk",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "84": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 82,
+      "index_start": 53,
+      "language_construct": "Coordination",
+      "text": "an object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "85": [
+    {
+      "description": "These optional words are likely not necessary and may add ambiguity.",
+      "index_end": 113,
+      "index_start": 107,
+      "language_construct": "Ambiguous Adverb or Adjective",
+      "text": "either",
+      "title": "Optional"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 105,
+      "index_start": 94,
+      "language_construct": "Subjective Language",
+      "text": "is modified",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 93,
+      "index_start": 64,
+      "language_construct": "Coordination",
+      "text": "an object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "86": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 12,
+      "index_start": 11,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 102,
+      "index_start": 99,
+      "language_construct": "Vague Pronoun",
+      "text": "who",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 58,
+      "index_start": 29,
+      "language_construct": "Coordination",
+      "text": "an object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "87": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 37,
+      "index_start": 34,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 93,
+      "index_start": 64,
+      "language_construct": "Coordination",
+      "text": "an object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "88": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 111,
+      "index_start": 99,
+      "language_construct": "Subjective Language",
+      "text": "is scheduled",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 98,
+      "index_start": 70,
+      "language_construct": "Coordination",
+      "text": "a object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "89": [
+    {
+      "description": "These optional words are likely not necessary and may add ambiguity.",
+      "index_end": 126,
+      "index_start": 120,
+      "language_construct": "Ambiguous Adverb or Adjective",
+      "text": "either",
+      "title": "Optional"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 118,
+      "index_start": 105,
+      "language_construct": "Subjective Language",
+      "text": "been modified",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 100,
+      "index_start": 71,
+      "language_construct": "Coordination",
+      "text": "an object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "9": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 26,
+      "index_start": 25,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 64,
+      "index_start": 54,
+      "language_construct": "Subjective Language",
+      "text": "is related",
+      "title": "Passive Voice Ambiguity"
+    }
+  ],
+  "90": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "91": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 126,
+      "index_start": 123,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 102,
+      "index_start": 98,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 66,
+      "index_start": 37,
+      "language_construct": "Coordination",
+      "text": "an object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "92": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 116,
+      "index_start": 104,
+      "language_construct": "Subjective Language",
+      "text": "is scheduled",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 103,
+      "index_start": 74,
+      "language_construct": "Coordination",
+      "text": "an object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "93": [
+    {
+      "description": "These optional words are likely not necessary and may add ambiguity.",
+      "index_end": 127,
+      "index_start": 121,
+      "language_construct": "Ambiguous Adverb or Adjective",
+      "text": "either",
+      "title": "Optional"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 119,
+      "index_start": 106,
+      "language_construct": "Subjective Language",
+      "text": "been modified",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 101,
+      "index_start": 72,
+      "language_construct": "Coordination",
+      "text": "an object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "94": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 37,
+      "index_start": 34,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 85,
+      "index_start": 81,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 99,
+      "index_start": 86,
+      "language_construct": "Subjective Language",
+      "text": "are permitted",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 80,
+      "index_start": 51,
+      "language_construct": "Coordination",
+      "text": "an object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 169,
+      "index_start": 139,
+      "language_construct": "Coordination",
+      "text": "the object or object component",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "95": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "96": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 81,
+      "index_start": 76,
+      "language_construct": "Vague Pronoun",
+      "text": "their",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 73,
+      "index_start": 72,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 107,
+      "index_start": 95,
+      "language_construct": "Subjective Language",
+      "text": "are modified",
+      "title": "Passive Voice Ambiguity"
+    },
+    {
+      "description": "Following two verbs joint by 'and' or 'or' by a noun makes it unclear if the noun describes the second verb only or both verbs.",
+      "index_end": 68,
+      "index_start": 39,
+      "language_construct": "Coordination",
+      "text": "permitted and restricted acts",
+      "title": "Coordination of two verbs followed by a noun"
+    }
+  ],
+  "97": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 38,
+      "index_start": 35,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ],
+  "98": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 44,
+      "index_start": 43,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 84,
+      "index_start": 63,
+      "language_construct": "Nominalization",
+      "text": "carrying out an event",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "99": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 20,
+      "index_start": 19,
+      "language_construct": "Vague Pronoun",
+      "text": "I",
+      "title": "Pronoun"
+    }
+  ]
+}
