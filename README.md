@@ -14,6 +14,7 @@ https://data.mendeley.com/datasets/7zbk8zsd8y/1
 - The CSV file, containing the extracted E-Mail requirements 
 - The experiments' inputs.
 - The experiments' outputs.
+- C# solution files for converting CSV to JSON, and for getting requirements from text files and excuting them on OpenReq.
 
 ## OpenReq
 
