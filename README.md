@@ -21,7 +21,7 @@ https://data.mendeley.com/datasets/7zbk8zsd8y/1
 OpenReq tool used:
 https://github.com/OpenReqEU/prs-improving-requirements-quality
 
-Converted the CSV into JSON, then executed on the OpenReq Microservice using the CULR command.
+Converted the CSV into JSON, then executed on the OpenReq Microservice using the CULR command. While a C# script was used for the user story samples.
 
 ## AQUSA
 
