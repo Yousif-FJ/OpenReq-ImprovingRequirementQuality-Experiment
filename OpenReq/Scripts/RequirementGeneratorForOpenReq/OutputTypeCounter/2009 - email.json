@@ -1,0 +1,1378 @@
+{
+  "1.1": [
+    
+  ],
+  "1.10": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 189,
+      "index_start": 184,
+      "language_construct": "Vague Pronoun",
+      "text": "their",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Either language error or ambiguous plural.",
+      "index_end": 189,
+      "index_start": 174,
+      "language_construct": "Subjective Language",
+      "text": "people in their",
+      "title": "Ambiguous Plural"
+    },
+    {
+      "description": "The combination of 'and' and 'or' leads to unclear associativity.",
+      "index_end": 210,
+      "index_start": 136,
+      "language_construct": "Subjective Language",
+      "text": "and sharing of information with other people in their individual agency or",
+      "title": "Unclear Associativity"
+    },
+    {
+      "description": "Following an adjective by two nouns joint by 'and' or 'or' makes it unclear if the adjective describes the first noun only or both nouns.",
+      "index_end": 223,
+      "index_start": 190,
+      "language_construct": "Coordination",
+      "text": "individual agency or organization",
+      "title": "Coordination of two nouns modified by an adjective"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 93,
+      "index_start": 50,
+      "language_construct": "Coordination",
+      "text": "public folders or similar storage mechanism",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "Following two verbs joint by 'and' or 'or' by a noun makes it unclear if the noun describes the second verb only or both verbs.",
+      "index_end": 64,
+      "index_start": 32,
+      "language_construct": "Coordination",
+      "text": "create and manage public folders",
+      "title": "Coordination of two verbs followed by a noun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 93,
+      "index_start": 68,
+      "language_construct": "Nominalization",
+      "text": "similar storage mechanism",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.11": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 61,
+      "index_start": 56,
+      "language_construct": "Vague Pronoun",
+      "text": "those",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 89,
+      "index_start": 46,
+      "language_construct": "Nominalization",
+      "text": "including those imported from other sources",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.12": [
+    
+  ],
+  "1.13": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 58,
+      "index_start": 30,
+      "language_construct": "Compound Noun",
+      "text": "contact lists address book",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.14": [
+    {
+      "description": "Following two verbs joint by 'and' or 'or' by a noun makes it unclear if the noun describes the second verb only or both verbs.",
+      "index_end": 61,
+      "index_start": 32,
+      "language_construct": "Coordination",
+      "text": "create and share distribution",
+      "title": "Coordination of two verbs followed by a noun"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 131,
+      "index_start": 101,
+      "language_construct": "Compound Noun",
+      "text": "query distribution lists",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 165,
+      "index_start": 69,
+      "language_construct": "Nominalization",
+      "text": "including the ability to create query based distribution lists from LDAP - like directory services",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.15": [
+    
+  ],
+  "1.16": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 94,
+      "index_start": 91,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    }
+  ],
+  "1.17": [
+    {
+      "description": "Following a verb by two nouns joint by 'and' or 'or' makes it unclear if the verb describes the first noun only or both nouns.",
+      "index_end": 50,
+      "index_start": 24,
+      "language_construct": "Coordination",
+      "text": "create reminders and tasks",
+      "title": "Coordination of two nouns preceded by a verb"
+    }
+  ],
+  "1.18": [
+    {
+      "description": "Property definitions should be explicit. Thus it is bad practice to define a system's property by comparing it to another system.",
+      "index_end": 54,
+      "index_start": 44,
+      "language_construct": "Comparatives and Superlatives",
+      "text": "programmer",
+      "title": "Comparative Adjective"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 86,
+      "index_start": 66,
+      "language_construct": "Compound Noun",
+      "text": "e mail functionality",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 120,
+      "index_start": 44,
+      "language_construct": "Nominalization",
+      "text": "programmer testing of e - mail functionality embedded in software applications",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 120,
+      "index_start": 99,
+      "language_construct": "Nominalization",
+      "text": "software applications",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.19": [
+    
+  ],
+  "1.2": [
+    
+  ],
+  "1.20": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 38,
+      "index_start": 33,
+      "language_construct": "Vague Pronoun",
+      "text": "their",
+      "title": "Pronoun"
+    }
+  ],
+  "1.21": [
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 62,
+      "index_start": 39,
+      "language_construct": "Coordination",
+      "text": "files and websites in e",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "1.22": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 67,
+      "index_start": 62,
+      "language_construct": "Vague Pronoun",
+      "text": "their",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Following an adjective by two nouns joint by 'and' or 'or' makes it unclear if the adjective describes the first noun only or both nouns.",
+      "index_end": 101,
+      "index_start": 68,
+      "language_construct": "Coordination",
+      "text": "individual agency or organization",
+      "title": "Coordination of two nouns modified by an adjective"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 57,
+      "index_start": 42,
+      "language_construct": "Compound Noun",
+      "text": "e mail accounts",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 152,
+      "index_start": 138,
+      "language_construct": "Compound Noun",
+      "text": "e mail account",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 199,
+      "index_start": 103,
+      "language_construct": "Nominalization",
+      "text": "including the ability to integrate e - mail account provisioning with LDAP - like directory services",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.23": [
+    
+  ],
+  "1.24": [
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 110,
+      "index_start": 79,
+      "language_construct": "Coordination",
+      "text": "accounts and distribution lists",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 65,
+      "index_start": 32,
+      "language_construct": "Compound Noun",
+      "text": "auto enforce conventions",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 110,
+      "index_start": 70,
+      "language_construct": "Nominalization",
+      "text": "creating accounts and distribution lists",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.25": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 64,
+      "index_start": 45,
+      "language_construct": "Compound Noun",
+      "text": "message size limits",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.26": [
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 62,
+      "index_start": 61,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 46,
+      "index_start": 39,
+      "language_construct": "Subjective Language",
+      "text": "generic",
+      "title": "Vague"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 86,
+      "index_start": 75,
+      "language_construct": "Subjective Language",
+      "text": "be accessed",
+      "title": "Passive Voice Ambiguity"
+    }
+  ],
+  "1.27": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 39,
+      "index_start": 34,
+      "language_construct": "Vague Pronoun",
+      "text": "their",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 142,
+      "index_start": 80,
+      "language_construct": "Nominalization",
+      "text": "adding fields , arranging fields , and ordering emails by fields",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 142,
+      "index_start": 95,
+      "language_construct": "Nominalization",
+      "text": "arranging fields , and ordering emails by fields",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 142,
+      "index_start": 117,
+      "language_construct": "Nominalization",
+      "text": "ordering emails by fields",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.28": [
+    {
+      "description": "These expressions do not specify the \u201coutside boundaries\u201d behaviour.",
+      "index_end": 34,
+      "index_start": 32,
+      "language_construct": "Subjective Language",
+      "text": "at",
+      "title": "Inside Behaviour"
+    }
+  ],
+  "1.29": [
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 73,
+      "index_start": 55,
+      "language_construct": "Nominalization",
+      "text": "archiving solution",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.3": [
+    
+  ],
+  "1.30": [
+    {
+      "description": "These expressions do not specify the \u201coutside boundaries\u201d behaviour.",
+      "index_end": 42,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "at",
+      "title": "Inside Behaviour"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 50,
+      "index_start": 43,
+      "language_construct": "Subjective Language",
+      "text": "various",
+      "title": "Vague"
+    }
+  ],
+  "1.31": [
+    
+  ],
+  "1.32": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 118,
+      "index_start": 115,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    }
+  ],
+  "1.33": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 94,
+      "index_start": 81,
+      "language_construct": "Compound Noun",
+      "text": "e mail system",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 94,
+      "index_start": 40,
+      "language_construct": "Nominalization",
+      "text": "long term retention separate from active e - mail system",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.34": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 84,
+      "index_start": 79,
+      "language_construct": "Vague Pronoun",
+      "text": "their",
+      "title": "Pronoun"
+    }
+  ],
+  "1.35": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 73,
+      "index_start": 72,
+      "language_construct": "Vague Pronoun",
+      "text": "i",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 76,
+      "index_start": 61,
+      "language_construct": "Nominalization",
+      "text": "retention ( i.e.",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 133,
+      "index_start": 130,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 115,
+      "index_start": 93,
+      "language_construct": "Compound Noun",
+      "text": "Gramm Leach Bliley Act",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.36": [
+    {
+      "description": "The combination of 'and' and 'or' leads to unclear associativity.",
+      "index_end": 98,
+      "index_start": 76,
+      "language_construct": "Subjective Language",
+      "text": "and provide printed or",
+      "title": "Unclear Associativity"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 75,
+      "index_start": 59,
+      "language_construct": "Compound Noun",
+      "text": "e mail discovery",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.37": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 43,
+      "index_start": 40,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Following two verbs joint by 'and' or 'or' by a noun makes it unclear if the noun describes the second verb only or both verbs.",
+      "index_end": 68,
+      "index_start": 44,
+      "language_construct": "Coordination",
+      "text": "sent and received emails",
+      "title": "Coordination of two verbs followed by a noun"
+    }
+  ],
+  "1.38": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 66,
+      "index_start": 43,
+      "language_construct": "Compound Noun",
+      "text": "e mail retention period",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 59,
+      "index_start": 50,
+      "language_construct": "Nominalization",
+      "text": "retention",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.39": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 57,
+      "index_start": 43,
+      "language_construct": "Compound Noun",
+      "text": "e mail header",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 73,
+      "index_start": 59,
+      "language_construct": "Nominalization",
+      "text": "including Date",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.4": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 45,
+      "index_start": 30,
+      "language_construct": "Compound Noun",
+      "text": "e mail messages",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.40": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 92,
+      "index_start": 89,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 132,
+      "index_start": 126,
+      "language_construct": "Vague Pronoun",
+      "text": "itself",
+      "title": "Pronoun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 97,
+      "index_start": 64,
+      "language_construct": "Nominalization",
+      "text": "including the header and all text",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.41": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 95,
+      "index_start": 92,
+      "language_construct": "Subjective Language",
+      "text": "any",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 47,
+      "index_start": 43,
+      "language_construct": "Subjective Language",
+      "text": "full",
+      "title": "Vague"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 116,
+      "index_start": 83,
+      "language_construct": "Coordination",
+      "text": "body and any attachments to the e",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 121,
+      "index_start": 61,
+      "language_construct": "Nominalization",
+      "text": "including the header , body and any attachments to the e - mail",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.42": [
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 154,
+      "index_start": 127,
+      "language_construct": "Coordination",
+      "text": "read and redaction purposes",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 50,
+      "index_start": 40,
+      "language_construct": "Nominalization",
+      "text": "litigation",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 94,
+      "index_start": 63,
+      "language_construct": "Nominalization",
+      "text": "production of responsive e - mail",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.43": [
+    {
+      "description": "Property definitions should be explicit. Thus it is bad practice to define a system's property by comparing it to another system.",
+      "index_end": 42,
+      "index_start": 37,
+      "language_construct": "Comparatives and Superlatives",
+      "text": "older",
+      "title": "Comparative Adjective"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 118,
+      "index_start": 87,
+      "language_construct": "Nominalization",
+      "text": "while maintaining accessibility",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.44": [
+    
+  ],
+  "1.45": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 60,
+      "index_start": 36,
+      "language_construct": "Compound Noun",
+      "text": "discovery search results",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 94,
+      "index_start": 86,
+      "language_construct": "Nominalization",
+      "text": "deletion",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.46": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 37,
+      "index_start": 34,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    },
+    {
+      "description": "Following two verbs joint by 'and' or 'or' by a noun makes it unclear if the noun describes the second verb only or both verbs.",
+      "index_end": 68,
+      "index_start": 43,
+      "language_construct": "Coordination",
+      "text": "review and mark discovery",
+      "title": "Coordination of two verbs followed by a noun"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 83,
+      "index_start": 54,
+      "language_construct": "Compound Noun",
+      "text": "mark discovery search results",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.47": [
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 59,
+      "index_start": 39,
+      "language_construct": "Nominalization",
+      "text": "using Boolean fields",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.48": [
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 58,
+      "index_start": 57,
+      "language_construct": "Vague Pronoun",
+      "text": "i",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 106,
+      "index_start": 103,
+      "language_construct": "Subjective Language",
+      "text": "etc",
+      "title": "Missing Content"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 76,
+      "index_start": 62,
+      "language_construct": "Compound Noun",
+      "text": "e mail address",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.49": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 291,
+      "index_start": 288,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 319,
+      "index_start": 316,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 91,
+      "index_start": 87,
+      "language_construct": "Vague Pronoun",
+      "text": "that",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 106,
+      "index_start": 101,
+      "language_construct": "Vague Pronoun",
+      "text": "their",
+      "title": "Pronoun"
+    },
+    {
+      "description": "Potentially unclear reference.",
+      "index_end": 158,
+      "index_start": 153,
+      "language_construct": "Vague Pronoun",
+      "text": "which",
+      "title": "Pronoun"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 273,
+      "index_start": 272,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 147,
+      "index_start": 146,
+      "language_construct": "Subjective Language",
+      "text": "(",
+      "title": "Vague"
+    },
+    {
+      "description": "Property definitions should be explicit. Thus it is bad practice to define a system's property by comparing it to another system.",
+      "index_end": 224,
+      "index_start": 218,
+      "language_construct": "Comparatives and Superlatives",
+      "text": "longer",
+      "title": "Comparative Adverb"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 77,
+      "index_start": 44,
+      "language_construct": "Nominalization",
+      "text": "deletion by system administrators",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 116,
+      "index_start": 101,
+      "language_construct": "Nominalization",
+      "text": "their retention",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 231,
+      "index_start": 121,
+      "language_construct": "Nominalization",
+      "text": "accordance with s.119.021(2)(c ) which requires agencies to \u201c systematically dispose of records no longer needed",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 249,
+      "index_start": 241,
+      "language_construct": "Nominalization",
+      "text": "Deletion",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 342,
+      "index_start": 256,
+      "language_construct": "Nominalization",
+      "text": "complete removal / elimination of all copies of an email from all portions of the system",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.5": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 49,
+      "index_start": 34,
+      "language_construct": "Compound Noun",
+      "text": "e mail messages",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 116,
+      "index_start": 102,
+      "language_construct": "Compound Noun",
+      "text": "e mail content",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 116,
+      "index_start": 88,
+      "language_construct": "Nominalization",
+      "text": "formatting of e - mail content",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.50": [
+    {
+      "description": "Speci\ufb01cations should be positive.",
+      "index_end": 54,
+      "index_start": 51,
+      "language_construct": "Negative Statement",
+      "text": "not",
+      "title": "Negative"
+    },
+    {
+      "description": "Authors should state requirements in active form, as passive conceals who is responsible for the action.",
+      "index_end": 66,
+      "index_start": 55,
+      "language_construct": "Subjective Language",
+      "text": "be archived",
+      "title": "Passive Voice Ambiguity"
+    }
+  ],
+  "1.51": [
+    {
+      "description": "These expressions do not specify the \u201coutside boundaries\u201d behaviour.",
+      "index_end": 47,
+      "index_start": 45,
+      "language_construct": "Subjective Language",
+      "text": "at",
+      "title": "Inside Behaviour"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.52": [
+    {
+      "description": "Potentially dangerous plural.",
+      "index_end": 48,
+      "index_start": 45,
+      "language_construct": "Subjective Language",
+      "text": "all",
+      "title": "Dangerous Plural"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.53": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 70,
+      "index_start": 56,
+      "language_construct": "Compound Noun",
+      "text": "e mail message",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.54": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.55": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.56": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.57": [
+    {
+      "description": "List of ambiguous words from the Ambiguity Handbook.",
+      "index_end": 53,
+      "index_start": 45,
+      "language_construct": "Ambiguous Adverb or Adjective",
+      "text": "previous",
+      "title": "Ambiguous Words"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 89,
+      "index_start": 69,
+      "language_construct": "Nominalization",
+      "text": "service interruption",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.58": [
+    {
+      "description": "These expressions do not specify the \u201coutside boundaries\u201d behaviour.",
+      "index_end": 111,
+      "index_start": 109,
+      "language_construct": "Subjective Language",
+      "text": "at",
+      "title": "Inside Behaviour"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 80,
+      "index_start": 57,
+      "language_construct": "Compound Noun",
+      "text": "e mail virus protection",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 128,
+      "index_start": 45,
+      "language_construct": "Nominalization",
+      "text": "pre - emptive e - mail virus protection ( scanning prior to delivery at the mail server )",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 127,
+      "index_start": 82,
+      "language_construct": "Nominalization",
+      "text": "scanning prior to delivery at the mail server",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.59": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 81,
+      "index_start": 45,
+      "language_construct": "Nominalization",
+      "text": "pre - emptive e - mail content filtering",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.6": [
+    
+  ],
+  "1.60": [
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 47,
+      "index_start": 46,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 88,
+      "index_start": 68,
+      "language_construct": "Coordination",
+      "text": "domain or IP address",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 64,
+      "index_start": 37,
+      "language_construct": "Compound Noun",
+      "text": "whitelist blacklist senders",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.61": [
+    {
+      "description": "Following two verbs joint by 'and' or 'or' by a noun makes it unclear if the noun describes the second verb only or both verbs.",
+      "index_end": 53,
+      "index_start": 37,
+      "language_construct": "Coordination",
+      "text": "block or allow e",
+      "title": "Coordination of two verbs followed by a noun"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.62": [
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 73,
+      "index_start": 72,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.63": [
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 71,
+      "index_start": 70,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.64": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 47,
+      "index_start": 32,
+      "language_construct": "Compound Noun",
+      "text": "outbound e mail",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.65": [
+    {
+      "description": "Following an adjective by two nouns joint by 'and' or 'or' makes it unclear if the adjective describes the first noun only or both nouns.",
+      "index_end": 83,
+      "index_start": 54,
+      "language_construct": "Coordination",
+      "text": "other businesses or customers",
+      "title": "Coordination of two nouns modified by an adjective"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 83,
+      "index_start": 34,
+      "language_construct": "Nominalization",
+      "text": "TLS encryption with other businesses or customers",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.66": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.67": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 33,
+      "index_start": 16,
+      "language_construct": "Compound Noun",
+      "text": "data center admin",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 78,
+      "index_start": 54,
+      "language_construct": "Compound Noun",
+      "text": "e mail customer identity",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.68": [
+    {
+      "description": "Following an adjective by two nouns joint by 'and' or 'or' makes it unclear if the adjective describes the first noun only or both nouns.",
+      "index_end": 61,
+      "index_start": 41,
+      "language_construct": "Coordination",
+      "text": "secure web or client",
+      "title": "Coordination of two nouns modified by an adjective"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 86,
+      "index_start": 64,
+      "language_construct": "Compound Noun",
+      "text": "Calendar Address book",
+      "title": "Ambiguous Compound Nouns"
+    }
+  ],
+  "1.69": [
+    
+  ],
+  "1.7": [
+    
+  ],
+  "1.70": [
+    {
+      "description": "These expressions denote that something is missing.",
+      "index_end": 104,
+      "index_start": 101,
+      "language_construct": "Subjective Language",
+      "text": "Etc",
+      "title": "Missing Content"
+    }
+  ],
+  "1.71": [
+    
+  ],
+  "1.72": [
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 68,
+      "index_start": 40,
+      "language_construct": "Coordination",
+      "text": "Update and Delete Blackberry",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "1.73": [
+    {
+      "description": "Following a verb by two nouns joint by 'and' or 'or' makes it unclear if the verb describes the first noun only or both nouns.",
+      "index_end": 53,
+      "index_start": 24,
+      "language_construct": "Coordination",
+      "text": "access mailbox and components",
+      "title": "Coordination of two nouns preceded by a verb"
+    },
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 63,
+      "index_start": 31,
+      "language_construct": "Coordination",
+      "text": "mailbox and components via a web",
+      "title": "Coordination of two nouns followed by another noun"
+    }
+  ],
+  "1.74": [
+    {
+      "description": "These vague words and symbols are likely to introduce ambiguity.",
+      "index_end": 29,
+      "index_start": 28,
+      "language_construct": "Subjective Language",
+      "text": "/",
+      "title": "Vague"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 73,
+      "index_start": 52,
+      "language_construct": "Nominalization",
+      "text": "workflow applications",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.75": [
+    
+  ],
+  "1.76": [
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 73,
+      "index_start": 54,
+      "language_construct": "Nominalization",
+      "text": "agency applications",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.77": [
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 90,
+      "index_start": 65,
+      "language_construct": "Coordination",
+      "text": "mail and mobile messaging",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 103,
+      "index_start": 63,
+      "language_construct": "Compound Noun",
+      "text": "e mail mobile environments",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 53,
+      "index_start": 34,
+      "language_construct": "Nominalization",
+      "text": "agency applications",
+      "title": "Ambiguous Nominalization"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 90,
+      "index_start": 74,
+      "language_construct": "Nominalization",
+      "text": "mobile messaging",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.8": [
+    {
+      "description": "Following two nouns joint by 'and' or 'or' by a third noun makes the word association unclear.",
+      "index_end": 91,
+      "index_start": 46,
+      "language_construct": "Coordination",
+      "text": "personal folders or similar storage mechanism",
+      "title": "Coordination of two nouns followed by another noun"
+    },
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 120,
+      "index_start": 104,
+      "language_construct": "Compound Noun",
+      "text": "e mail retrieval",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 91,
+      "index_start": 66,
+      "language_construct": "Nominalization",
+      "text": "similar storage mechanism",
+      "title": "Ambiguous Nominalization"
+    }
+  ],
+  "1.9": [
+    {
+      "description": "A sequence of more than two consecutive nouns may have more than one interpretation depending on the possible associations between the words.",
+      "index_end": 96,
+      "index_start": 83,
+      "language_construct": "Compound Noun",
+      "text": "e mail system",
+      "title": "Ambiguous Compound Nouns"
+    },
+    {
+      "description": "A nominalization means the use of the noun form of a verb which may lead to loss of information about the nominalized action(subject, time, location).",
+      "index_end": 48,
+      "index_start": 40,
+      "language_construct": "Nominalization",
+      "text": "existing",
+      "title": "Ambiguous Nominalization"
+    }
+  ]
+}

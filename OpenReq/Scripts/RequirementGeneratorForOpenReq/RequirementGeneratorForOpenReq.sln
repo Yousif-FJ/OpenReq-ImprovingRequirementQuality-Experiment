@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReqCsvToJson", "Requirement
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonTools", "CommonTools\CommonTools.csproj", "{F9C634B6-43D0-42C1-9E11-30B2A009FA4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileRunner", "TextFileRunner\TextFileRunner.csproj", "{3B6F45F6-EDCE-4753-B070-047E60F937EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFileRunner", "TextFileRunner\TextFileRunner.csproj", "{3B6F45F6-EDCE-4753-B070-047E60F937EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputTypeCounter", "OutputTypeCounter\OutputTypeCounter.csproj", "{2F138A65-CA6B-4E9C-8414-29E27C9E1ED0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{3B6F45F6-EDCE-4753-B070-047E60F937EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B6F45F6-EDCE-4753-B070-047E60F937EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B6F45F6-EDCE-4753-B070-047E60F937EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F138A65-CA6B-4E9C-8414-29E27C9E1ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F138A65-CA6B-4E9C-8414-29E27C9E1ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F138A65-CA6B-4E9C-8414-29E27C9E1ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F138A65-CA6B-4E9C-8414-29E27C9E1ED0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
